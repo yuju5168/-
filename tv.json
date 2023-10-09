@@ -6,8 +6,9 @@
 "sites":[
 {"key":"haiwai","name":"海外","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"haiwaikan","name":"海外看","type":1,"api":"https://api.haiwaikan.com/v1/vod?ac=list","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"SONY","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0}
-],
+{"key":"SONY","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"taopian","name":"淘片","type":1,"api":"https://taopianapi.com/cjapi/mc10/vod/json.html","searchable":1,"quickSearch":0,"filterable":0}  
+  ],
 
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
