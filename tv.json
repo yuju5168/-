@@ -8,7 +8,7 @@
 {"key":"haiwaikan","name":"海外看","type":1,"api":"https://api.haiwaikan.com/v1/vod?ac=list","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"SONY","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"damozy","name":"大漠","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"kuakezy","name":"夸克","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/from/kuake/at/json/?ac=list","searchable":1,"quickSearch":0,"filterable":0}
+{"key":"kuakezy","name":"夸克","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":0}
 ],
 
 "parses":[
