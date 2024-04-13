@@ -33,6 +33,7 @@
 
 #优质站点
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key": "T4-安博","name": "安博(T4)","type": 4,"api": "https://tang.serv00.net/power/ub1818?token=8142df7d","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
 {"key":"csp_索尼","name":"📌索尼[CJ]","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_49zy","name":"🕘49[CJ]","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"csp_量子","name":"🔰量子[CJ]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
