@@ -1431,24 +1431,50 @@ FAKE COP,https://tang.serv00.net/zb/99.php?id=3102&token=8142df7d
 
 18+,#genre#
 
-松视1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-玩美台,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-免子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-极限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-彩虹电影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-彩虹E,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
-HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
-Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-SEX ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
-白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
-花花公子电视,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/527/index.m3u8
-菊花台,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
-红绿兔,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6280/index.m3u8
-YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
-白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
-花花电视,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
+松視1,https://tang.serv00.net/zb/99.php?id=402&token=8142df7d
+松视1台,https://tang.serv00.net/zb/99.php?id=2905&token=8142df7d
+松视2台,https://tang.serv00.net/zb/99.php?id=2906&token=8142df7d
+松視2,https://tang.serv00.net/zb/99.php?id=403&token=8142df7d
+松視3,https://tang.serv00.net/zb/99.php?id=404&token=8142df7d
+松视3台,https://tang.serv00.net/zb/99.php?id=2907&token=8142df7d
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410&token=8142df7d
+彩虹電影,https://tang.serv00.net/zb/99.php?id=413&token=8142df7d
+HAPPY,https://tang.serv00.net/zb/99.php?id=2908&token=8142df7d
+JStar,https://tang.serv00.net/zb/99.php?id=2909&token=8142df7d
+彩虹E,https://tang.serv00.net/zb/99.php?id=406&token=8142df7d
+彩虹E,https://tang.serv00.net/zb/99.php?id=2935&token=8142df7d
+彩虹K,https://tang.serv00.net/zb/99.php?id=2910&token=8142df7d
+彩虹K,https://tang.serv00.net/zb/99.php?id=415&token=8142df7d
+Amazing,https://tang.serv00.net/zb/99.php?id=2931&token=8142df7d
+彩虹电影,https://tang.serv00.net/zb/99.php?id=2934&token=8142df7d
+Brazzers TV,https://tang.serv00.net/zb/99.php?id=3076&token=8142df7d
+Vivid Touch,https://tang.serv00.net/zb/99.php?id=3078&token=8142df7d
+Erox,https://tang.serv00.net/zb/99.php?id=3079&token=8142df7d
+Red Hot,https://tang.serv00.net/zb/99.php?id=3080&token=8142df7d
+Exxxtasy,https://tang.serv00.net/zb/99.php?id=3081&token=8142df7d
+Penthouse Quickie,https://tang.serv00.net/zb/99.php?id=3082&token=8142df7d
+RED LIPS,https://tang.serv00.net/zb/99.php?id=3083&token=8142df7d
+VIXEN,https://tang.serv00.net/zb/99.php?id=3084&token=8142df7d
+BRAZZERS EN ESPANOL,https://tang.serv00.net/zb/99.php?id=3092&token=8142df7d
+BUSTY LOVER,https://tang.serv00.net/zb/99.php?id=3093&token=8142df7d
+CUM 4K,https://tang.serv00.net/zb/99.php?id=3094&token=8142df7d
+Red Light,https://tang.serv00.net/zb/99.php?id=3075&token=8142df7d
+Blue Hustler,https://tang.serv00.net/zb/99.php?id=3077&token=8142df7d
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=2932&token=8142df7d
+Banana香蕉,https://tang.serv00.net/zb/99.php?id=2930&token=8142df7d
+LOOK,https://tang.serv00.net/zb/99.php?id=2933&token=8142df7d
+Babes TV HD,https://tang.serv00.net/zb/99.php?id=458&token=8142df7d
+Hustler HD,https://tang.serv00.net/zb/99.php?id=451&token=8142df7d
+Redlight HD,https://tang.serv00.net/zb/99.php?id=452&token=8142df7d
+SEX ATION HD,https://tang.serv00.net/zb/99.php?id=459&token=8142df7d
+Passie,https://tang.serv00.net/zb/99.php?id=461&token=8142df7d
+極限電影,https://tang.serv00.net/zb/99.php?id=405&token=8142df7d
+PLAYBOY HD,https://tang.serv00.net/zb/99.php?id=411&token=8142df7d
+EXXXTRA SMALL,https://tang.serv00.net/zb/99.php?id=3099&token=8142df7d
+DAUGHTER SWAP,https://tang.serv00.net/zb/99.php?id=3095&token=8142df7d
+DEEPER,https://tang.serv00.net/zb/99.php?id=3096&token=8142df7d
+DIGITAL PLAYGROUND,https://tang.serv00.net/zb/99.php?id=3097&token=8142df7d
+EROTIC SPICE,https://tang.serv00.net/zb/99.php?id=3098&token=8142df7d
+FAKE AGENT,https://tang.serv00.net/zb/99.php?id=3100&token=8142df7d
+FAKE AGENT UK,https://tang.serv00.net/zb/99.php?id=3101&token=8142df7d
+FAKE COP,https://tang.serv00.net/zb/99.php?id=3102&token=8142df7d
