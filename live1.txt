@@ -1,219 +1,1433 @@
-Decoder=3
-
-台湾,#genre#
-华视新闻,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
-民视HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
-台视HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
-中视,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
-华视HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
-公视,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
-好消息,https://z88.ubtvfans.com/live/rx1/104/a4837e9b394e278fe4726be73a5c227e/index.m3u8
-客家电视,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
-纬来综合,https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
-八大第一,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
-八大综合,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
-三立台湾HD,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
-三立都会HD,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
-华艺综合,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
-东森综合,https://z88.ubtvfans.com/live/rx1/372/0c714ce5b680b8d96604ec36804f1f86/index.m3u8
-中天综合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-中天娱乐HD,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-tvbd欢乐,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-八大精彩,https://z88.ubtvfans.com/live/rx1/1024/2ebca361d9557429a40fb2d738123d6e/index.m3u8
-JET综合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
-TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-纬来育乐,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
-纬来日本,https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
-国兴卫视,https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
-八大娱乐,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-中天亚洲,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-民视综艺,https://z88.ubtvfans.com/live/rx3/98/3c6f819155886e63394f7f294db07f13/index.m3u8
-民视第一台,https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
-民视台湾,https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
-龙华日韩,https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
-猪哥亮歌厅秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
-ELTA娱乐,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
-韩国娱乐,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
-靖天国际,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
-靖天育乐,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
-靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-靖天欢乐,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
-三立综合,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-靖天资讯,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
-靖天综合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
-中视经典,https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
-中视菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
-TVBS精采,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
-年代much,https://z88.ubtvfans.com/live/rx1/1359/44acb036ef6a4711efb23d82a5d9151e/index.m3u8
-TVN台湾版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-三立新闻,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-东森新闻,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-东森亚洲卫视,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
-民视新闻,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-TVBS新闻,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-三立inews,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
-台视新闻,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
-中视新闻,https://z88.ubtvfans.com/live/rx6/2400//index.m3u8
-环宇台湾,https://z88.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
-年代新闻,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
-壹新闻,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-台视财经,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
-三立国际,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-东森戏剧,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-八大戏剧,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
-纬来戏剧,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
-catchplay,https://z88.ubtvfans.com/live/rx1/93/7febf95a8704191f5eaec5b937d1400b/index.m3u8
-东森电影.https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-纬来电影,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
-HBOhd,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-壹电影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
-爱达尔影剧,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
-东森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
-好莱坞,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-龙华洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
-靖天影画,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-靖洋戏剧,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-纬来精采,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
-EYE戏剧,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
-三立戏剧,https://z88.ubtvfans.com/live/rx1/64/73393c10a0588bd9119eaed578fb81d5/index.m3u8
-龙华偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-霹雳台湾,https://z88.ubtvfans.com/live/rx1/1339/4548801261b49eea62f971f931ed19a7/index.m3u8
-靖天电影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-美亚电影,https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
-民视影剧,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
-HBO1,https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-HBO2,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-采昌影剧,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-影迷数位,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-龙华戏剧,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-龙华经典,https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
-龍祥时代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-AXN台湾,https://z88.ubtvfans.com/live/rx1/423/abf4b53f7686220405a7e7085df61f65/index.m3u8
-天映经典,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
-公视戏剧,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-AXN亚洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
-thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
-龍华电影,https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
-华纳电影,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
-纬来体育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-ELEVEN1,https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8
-ELEVEN2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-ELTA体育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-ELTA体育2!https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
-ELTA体育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-ELTA体育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
-Z频道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-博斯无限1,https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-博斯无限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-博斯运动1,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
-博斯运动2,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
-亚洲旅游,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
-国家地理,https://z88.ubtvfans.com/live/rx1/302/5c562b6b602c232f4ef70bd948dc2f7f/index.m3u8
-探索频道,https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
-动物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-民视旅游,https://z88.ubtvfans.com/live/rx2/78/b74e51bdd2f933ad4272e33628754a67/index.m3u8
-探索亚洲,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
-探索科学,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
-DMAX,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
-探索eve!https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-视纳华仁纪实,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/3516d0b785f10f703c84fd65065affd2/index.m3u8
-EYE旅游,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
-MOMO,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-东森幼幼,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
-靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
-靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
-纬来体育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-
-香港,#genre#
-翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-
-翡翠台,https://z88.ubtvfans.com/live/rx1/30/fb664922e2e0f516cde26b1d27a01331/index.m3u8
-
-明珠台,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
-
-明珠台,https://z88.ubtvfans.com/live/rx1/2437/60f6d630f969e14ada0c4ff4e424733e/index.m3u8
-
-无线新闻,https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
-
-HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
-
-Viutv,https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
-
-Viutv,https://z88.ubtvfans.com/live/rx1/72/67ad6810b074a91c73426c59e36738d6/index.m3u8
-
-TVB 财经,https://z88.ubtvfans.com/live/rx1/393/2ab98535a19d87448969f590b141d15b/index.m3u8
-
-TVB 直播,https://z88.ubtvfans.com/live/rx1/2743/4f144d9eee874c8d70c168c4b0c4b8d5/index.m3u8
-
-NOW新闻,https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
-
-凰凤香港,https://z88.ubtvfans.com/live/rx1/358/efd02792da62ca36ce0cace8399dc10f/index.m3u8
-
-凰凤卫视,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
-
-凤凰资讯,https://z88.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
-
-星空卫视,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
-
-港台31,https://z88.ubtvfans.com/live/rx1/353/5012273951b1fa2f58322e047b5cad8e/index.m3u8
-
-港台32,https://z88.ubtvfans.com/live/rx1/397/f342385d2bec6e54b6edd5c18597c39e/index.m3u8
-
-HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
-
-HOY,https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
-
-澳门资讯,https://z88.ubtvfans.com/live/rx3/399/9293c862ac36b967b559d9e06def36cf/index.m3u8
-
-澳门澳视,https://z88.ubtvfans.com/live/rx1/23/2461dc775e41aa30e9d1e941702fc5b7/index.m3u8
-
-澳门普语,https://z88.ubtvfans.com/live/rx3/24/fbbbb000a4376aa5efe7d87589e3ad3c/index.m3u8
-
-18台,https://z88.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
-
-澳门mama,https://z88.ubtvfans.com/live/rx3/364/0f63868258bdbcfa9c630f14d732bb6d/index.m3u8
-
-广东珠江,https://z88.ubtvfans.com/live/rx1/1034/ea91e47e0ce349e1923cbcb373067494/index.m3u8
-
-澳门莲花,https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
-
-凤凰电影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
-
-Viutv6,https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
-
-创世电视,https://z88.ubtvfans.com/live/rx6/1317/a6cc4d38042da834e3c7eee3ad2aef10/index.m3u8
-
-澳亚卫视,https://z88.ubtvfans.com/live/rx3/85/c871830ea5628e11c1a0af56f2424165/index.m3u8
-
-TVB亚洲,https://z88.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
-
-TVB粤语,https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
-
-TVB功夫,https://z88.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
-
-亚梅卫视,https://z88.ubtvfans.com/live/rx3/8/77623fd8579d781dec56a03cfcaad0d5/index.m3u8
-
-TVB1,https://z88.ubtvfans.com/live/rx3/1242/eeea21dcadba59e9cf76774d26343f65/index.m3u8
-
-TVBDRAMA,https://z88.ubtvfans.com/live/rx3/1243/c58aa488dfca9fea0dd03d144945d918/index.m3u8
-
-TVBJ1,https://z88.ubtvfans.com/live/rx3/1244/8143b9a14c380ff86751516f49c4d815/index.m3u8
-
-TVBE,https://z88.ubtvfans.com/live/rx3/1245/32fad5843f9d9c3cb685bae826856acf/index.m3u8
-
-新时代东部,https://z88.ubtvfans.com/live/rx3/1286/57fa77077b641704a8c5610e6856e7b1/index.m3u8
-
-新时代西部,https://z88.ubtvfans.com/live/rx3/1287/dc127a53da799d357f8951a2d9f7aa23/index.m3u8
-
-新时代2,https://z88.ubtvfans.com/live/rx3/1288/00ac0fea3fafa7b991bfee63ce1c5850/index.m3u8
-
-城市电视,https://z88.ubtvfans.com/live/rx3/1289/352689e8ed7e378f1fc087387bf08f21/index.m3u8
-
-TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93a/index.m3u8
-
-TVB经典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b4/index.m3u8
+预告,#genre#
+2024年,http://tang.serv00.net/music/play?&token=8142df7d
+台灣頻道,#genre#
+民視,https://tang.serv00.net/zb/99.php?id=26&token=8142df7d
+民視,https://tang.serv00.net/zb/99.php?id=336&token=8142df7d
+民視,https://tang.serv00.net/zb/99.php?id=2805&token=8142df7d
+台視,https://tang.serv00.net/zb/99.php?id=326&token=8142df7d
+台視,https://tang.serv00.net/zb/99.php?id=312&token=8142df7d
+中視,https://tang.serv00.net/zb/99.php?id=333&token=8142df7d
+中視,https://tang.serv00.net/zb/99.php?id=1041&token=8142df7d
+華視,https://tang.serv00.net/zb/99.php?id=32&token=8142df7d
+華視,https://tang.serv00.net/zb/99.php?id=2282&token=8142df7d
+公視,https://tang.serv00.net/zb/99.php?id=86&token=8142df7d
+公視,https://tang.serv00.net/zb/99.php?id=28&token=8142df7d
+好消息,https://tang.serv00.net/zb/99.php?id=104&token=8142df7d
+客家電視,https://tang.serv00.net/zb/99.php?id=76&token=8142df7d
+緯來綜合,https://tang.serv00.net/zb/99.php?id=2726&token=8142df7d
+八大第一,https://tang.serv00.net/zb/99.php?id=318&token=8142df7d
+八大綜合,https://tang.serv00.net/zb/99.php?id=2286&token=8142df7d
+三立臺灣,https://tang.serv00.net/zb/99.php?id=35&token=8142df7d
+三立臺灣,https://tang.serv00.net/zb/99.php?id=21&token=8142df7d
+三立臺灣,https://tang.serv00.net/zb/99.php?id=2436&token=8142df7d
+三立都會,https://tang.serv00.net/zb/99.php?id=2435&token=8142df7d
+三立都會,https://tang.serv00.net/zb/99.php?id=1001&token=8142df7d
+三立都會,https://tang.serv00.net/zb/99.php?id=38&token=8142df7d
+華藝綜合,https://tang.serv00.net/zb/99.php?id=342&token=8142df7d
+東森綜合,https://tang.serv00.net/zb/99.php?id=372&token=8142df7d
+東森超視,https://tang.serv00.net/zb/99.php?id=80&token=8142df7d
+東森購物2,https://tang.serv00.net/zb/99.php?id=1156&token=8142df7d
+中天綜合,https://tang.serv00.net/zb/99.php?id=54&token=8142df7d
+中天綜合,https://tang.serv00.net/zb/99.php?id=3072&token=8142df7d
+中天娛樂,https://tang.serv00.net/zb/99.php?id=324&token=8142df7d
+TVBS歡樂,https://tang.serv00.net/zb/99.php?id=40&token=8142df7d
+JET綜合,https://tang.serv00.net/zb/99.php?id=41&token=8142df7d
+東森購物1,https://tang.serv00.net/zb/99.php?id=1155&token=8142df7d
+TVBS,https://tang.serv00.net/zb/99.php?id=2273&token=8142df7d
+TVBS,https://tang.serv00.net/zb/99.php?id=16&token=8142df7d
+緯來育樂,https://tang.serv00.net/zb/99.php?id=338&token=8142df7d
+緯來育樂（測試）,https://tang.serv00.net/zb/99.php?id=2772&token=8142df7d
+緯來日本,https://tang.serv00.net/zb/99.php?id=337&token=8142df7d
+緯來日本,https://tang.serv00.net/zb/99.php?id=46&token=8142df7d
+國興衛視,https://tang.serv00.net/zb/99.php?id=65&token=8142df7d
+信大電視,https://tang.serv00.net/zb/99.php?id=422&token=8142df7d
+八大娱乐,https://tang.serv00.net/zb/99.php?id=105&token=8142df7d
+公視3台,https://tang.serv00.net/zb/99.php?id=1340&token=8142df7d
+好消息2,https://tang.serv00.net/zb/99.php?id=363&token=8142df7d
+高點綜合,https://tang.serv00.net/zb/99.php?id=99&token=8142df7d
+中天亞洲,https://tang.serv00.net/zb/99.php?id=2277&token=8142df7d
+中天亞洲,https://tang.serv00.net/zb/99.php?id=322&token=8142df7d
+民視綜藝,https://tang.serv00.net/zb/99.php?id=98&token=8142df7d
+民視第一台,https://tang.serv00.net/zb/99.php?id=34&token=8142df7d
+民視台灣,https://tang.serv00.net/zb/99.php?id=36&token=8142df7d
+龍華日韓,https://tang.serv00.net/zb/99.php?id=382&token=8142df7d
+豬哥亮歌廳秀,https://tang.serv00.net/zb/99.php?id=75&token=8142df7d
+豬哥會社,https://tang.serv00.net/zb/99.php?id=103&token=8142df7d
+ELTA娛樂台,https://tang.serv00.net/zb/99.php?id=351&token=8142df7d
+韓國娛樂,https://tang.serv00.net/zb/99.php?id=73&token=8142df7d
+靖天國際,https://tang.serv00.net/zb/99.php?id=345&token=8142df7d
+靖天育樂,https://tang.serv00.net/zb/99.php?id=1029&token=8142df7d
+靖天日本,https://tang.serv00.net/zb/99.php?id=108&token=8142df7d
+靖天歡樂,https://tang.serv00.net/zb/99.php?id=51&token=8142df7d
+三立綜合,https://tang.serv00.net/zb/99.php?id=315&token=8142df7d
+三立綜合,https://tang.serv00.net/zb/99.php?id=2815&token=8142df7d
+靖天資訊,https://tang.serv00.net/zb/99.php?id=49&token=8142df7d
+靖天綜合,https://tang.serv00.net/zb/99.php?id=308&token=8142df7d
+中視經典,https://tang.serv00.net/zb/99.php?id=185&token=8142df7d
+中視菁采,https://tang.serv00.net/zb/99.php?id=74&token=8142df7d
+TVBS精采,https://tang.serv00.net/zb/99.php?id=66&token=8142df7d
+TVBS精采,https://tang.serv00.net/zb/99.php?id=117&token=8142df7d
+年代much,https://tang.serv00.net/zb/99.php?id=1359&token=8142df7d
+ELTA綜合,https://tang.serv00.net/zb/99.php?id=1137&token=8142df7d
+TVN台湾版,https://tang.serv00.net/zb/99.php?id=2288&token=8142df7d
+東森購物3,https://tang.serv00.net/zb/99.php?id=1584&token=8142df7d
+MOMO購物1,https://tang.serv00.net/zb/99.php?id=1585&token=8142df7d
+MOMO購物2,https://tang.serv00.net/zb/99.php?id=1586&token=8142df7d
+美好購物1,https://tang.serv00.net/zb/99.php?id=1591&token=8142df7d
+美好購物2,https://tang.serv00.net/zb/99.php?id=1592&token=8142df7d
+大立電視,https://tang.serv00.net/zb/99.php?id=1593&token=8142df7d
+國會頻道１,https://tang.serv00.net/zb/99.php?id=2614&token=8142df7d
+國會頻道2,https://tang.serv00.net/zb/99.php?id=420&token=8142df7d
+海豚綜合,https://tang.serv00.net/zb/99.php?id=262&token=8142df7d
+台灣地震監視,https://tang.serv00.net/zb/99.php?id=2637&token=8142df7d
+誠心電視,https://tang.serv00.net/zb/99.php?id=495&token=8142df7d
+第一名電視,https://tang.serv00.net/zb/99.php?id=216&token=8142df7d
+中視經典綜藝,https://tang.serv00.net/zb/99.php?id=2773&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=43&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=2794&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=2392&token=8142df7d
+三立+,https://tang.serv00.net/zb/99.php?id=320&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=1025&token=8142df7d
+東森新聞4,https://tang.serv00.net/zb/99.php?id=2766&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=1358&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=2393&token=8142df7d
+東森亞洲,https://tang.serv00.net/zb/99.php?id=3&token=8142df7d
+中天新聞2台,https://tang.serv00.net/zb/99.php?id=152&token=8142df7d
+中天新聞,https://tang.serv00.net/zb/99.php?id=2420&token=8142df7d
+民視新聞,https://tang.serv00.net/zb/99.php?id=2395&token=8142df7d
+民視新聞,https://tang.serv00.net/zb/99.php?id=13&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2736&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2396&token=8142df7d
+東森財經,https://tang.serv00.net/zb/99.php?id=2397&token=8142df7d
+東森財經,https://tang.serv00.net/zb/99.php?id=12&token=8142df7d
+華視新聞,https://tang.serv00.net/zb/99.php?id=2424&token=8142df7d
+華視新聞,https://tang.serv00.net/zb/99.php?id=1171&token=8142df7d
+三立iNEWS,https://tang.serv00.net/zb/99.php?id=6&token=8142df7d
+台視新聞,https://tang.serv00.net/zb/99.php?id=2399&token=8142df7d
+台視新聞,https://tang.serv00.net/zb/99.php?id=1&token=8142df7d
+中視新聞,https://tang.serv00.net/zb/99.php?id=2400&token=8142df7d
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=2401&token=8142df7d
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=304&token=8142df7d
+寰宇財經,https://tang.serv00.net/zb/99.php?id=2536&token=8142df7d
+公視新聞,https://tang.serv00.net/zb/99.php?id=20&token=8142df7d
+寰宇臺灣,https://tang.serv00.net/zb/99.php?id=87&token=8142df7d
+年代新聞,https://tang.serv00.net/zb/99.php?id=2719&token=8142df7d
+年代新聞,https://tang.serv00.net/zb/99.php?id=1099&token=8142df7d
+壹新聞,https://tang.serv00.net/zb/99.php?id=2777&token=8142df7d
+壹新聞,https://tang.serv00.net/zb/99.php?id=494&token=8142df7d
+鏡新聞mnews,https://tang.serv00.net/zb/99.php?id=463&token=8142df7d
+三立国際,https://tang.serv00.net/zb/99.php?id=2285&token=8142df7d
+CBN News,https://tang.serv00.net/zb/99.php?id=499&token=8142df7d
+東森戲劇,https://tang.serv00.net/zb/99.php?id=2825&token=8142df7d
+東森戲劇,https://tang.serv00.net/zb/99.php?id=321&token=8142df7d
+八大戲劇,https://tang.serv00.net/zb/99.php?id=81&token=8142df7d
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=2727&token=8142df7d
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=339&token=8142df7d
+東森電影,https://tang.serv00.net/zb/99.php?id=350&token=8142df7d
+東森電影,https://tang.serv00.net/zb/99.php?id=2720&token=8142df7d
+緯來電影,https://tang.serv00.net/zb/99.php?id=2728&token=8142df7d
+HBO HD,https://tang.serv00.net/zb/99.php?id=332&token=8142df7d
+HBO HD,https://tang.serv00.net/zb/99.php?id=2823&token=8142df7d
+東森洋片,https://tang.serv00.net/zb/99.php?id=1128&token=8142df7d
+壹電影,https://tang.serv00.net/zb/99.php?id=2284&token=8142df7d
+好萊塢電影,https://tang.serv00.net/zb/99.php?id=37&token=8142df7d
+愛爾達影劇,https://tang.serv00.net/zb/99.php?id=500&token=8142df7d
+CineMAX,https://tang.serv00.net/zb/99.php?id=346&token=8142df7d
+靖天映畫,https://tang.serv00.net/zb/99.php?id=349&token=8142df7d
+靖洋戲劇,https://tang.serv00.net/zb/99.php?id=319&token=8142df7d
+緯來精彩,https://tang.serv00.net/zb/99.php?id=2280&token=8142df7d
+EYE戲劇,https://tang.serv00.net/zb/99.php?id=191&token=8142df7d
+三立戲劇,https://tang.serv00.net/zb/99.php?id=64&token=8142df7d
+三立戲劇,https://tang.serv00.net/zb/99.php?id=2819&token=8142df7d
+龍華偶像,https://tang.serv00.net/zb/99.php?id=385&token=8142df7d
+霹靂臺灣,https://tang.serv00.net/zb/99.php?id=1339&token=8142df7d
+靖天電影,https://tang.serv00.net/zb/99.php?id=110&token=8142df7d
+美亞電影,https://tang.serv00.net/zb/99.php?id=375&token=8142df7d
+民視影劇,https://tang.serv00.net/zb/99.php?id=1023&token=8142df7d
+HBOSignature,https://tang.serv00.net/zb/99.php?id=329&token=8142df7d
+HBOSignature,https://tang.serv00.net/zb/99.php?id=2824&token=8142df7d
+HBO Hits,https://tang.serv00.net/zb/99.php?id=330&token=8142df7d
+采昌影劇,https://tang.serv00.net/zb/99.php?id=62&token=8142df7d
+采昌影劇,https://tang.serv00.net/zb/99.php?id=2804&token=8142df7d
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=497&token=8142df7d
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=2800&token=8142df7d
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=365&token=8142df7d
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=2796&token=8142df7d
+龍華經典,https://tang.serv00.net/zb/99.php?id=100&token=8142df7d
+龍翔時代,https://tang.serv00.net/zb/99.php?id=373&token=8142df7d
+AXN臺灣,https://tang.serv00.net/zb/99.php?id=2816&token=8142df7d
+天映經典,https://tang.serv00.net/zb/99.php?id=2289&token=8142df7d
+公視戲劇,https://tang.serv00.net/zb/99.php?id=69&token=8142df7d
+AXN亞洲,https://tang.serv00.net/zb/99.php?id=1066&token=8142df7d
+Trill恐怖電影,https://tang.serv00.net/zb/99.php?id=18&token=8142df7d
+龍華電影,https://tang.serv00.net/zb/99.php?id=311&token=8142df7d
+華納電影,https://tang.serv00.net/zb/99.php?id=83&token=8142df7d
+靖天戲劇,https://tang.serv00.net/zb/99.php?id=109&token=8142df7d
+龍華洋片,https://tang.serv00.net/zb/99.php?id=341&token=8142df7d
+緯來體育,https://tang.serv00.net/zb/99.php?id=118&token=8142df7d
+緯來體育,https://tang.serv00.net/zb/99.php?id=2732&token=8142df7d
+Eleven Sport 1,https://tang.serv00.net/zb/99.php?id=3224&token=8142df7d
+Eleven Sport 2,https://tang.serv00.net/zb/99.php?id=301&token=8142df7d
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=192&token=8142df7d
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=2729&token=8142df7d
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=193&token=8142df7d
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=2730&token=8142df7d
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=194&token=8142df7d
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=2731&token=8142df7d
+ELTA體育3台,https://tang.serv00.net/zb/99.php?id=2722&token=8142df7d
+ELTA體育4,https://tang.serv00.net/zb/99.php?id=2820&token=8142df7d
+Z頻道,https://tang.serv00.net/zb/99.php?id=1130&token=8142df7d
+博斯無限,https://tang.serv00.net/zb/99.php?id=381&token=8142df7d
+博斯無限,https://tang.serv00.net/zb/99.php?id=2797&token=8142df7d
+博斯無限2,https://tang.serv00.net/zb/99.php?id=426&token=8142df7d
+博斯無限2,https://tang.serv00.net/zb/99.php?id=2798&token=8142df7d
+博斯運動1,https://tang.serv00.net/zb/99.php?id=379&token=8142df7d
+博斯運動2,https://tang.serv00.net/zb/99.php?id=380&token=8142df7d
+亞洲旅遊,https://tang.serv00.net/zb/99.php?id=2299&token=8142df7d
+探索頻道,https://tang.serv00.net/zb/99.php?id=2817&token=8142df7d
+探索頻道,https://tang.serv00.net/zb/99.php?id=1035&token=8142df7d
+大陸尋奇,https://tang.serv00.net/zb/99.php?id=102&token=8142df7d
+動物星球,https://tang.serv00.net/zb/99.php?id=367&token=8142df7d
+民視旅遊,https://tang.serv00.net/zb/99.php?id=78&token=8142df7d
+探索亞洲,https://tang.serv00.net/zb/99.php?id=306&token=8142df7d
+探索科學,https://tang.serv00.net/zb/99.php?id=343&token=8142df7d
+國家野生,https://tang.serv00.net/zb/99.php?id=1038&token=8142df7d
+探索EVE,https://tang.serv00.net/zb/99.php?id=1036&token=8142df7d
+視納華仁紀實,https://tang.serv00.net/zb/99.php?id=91&token=8142df7d
+美食星球,https://tang.serv00.net/zb/99.php?id=3073&token=8142df7d
+美食星球,https://tang.serv00.net/zb/99.php?id=1360&token=8142df7d
+EYE旅遊,https://tang.serv00.net/zb/99.php?id=1494&token=8142df7d
+探索動力DMAX,https://tang.serv00.net/zb/99.php?id=335&token=8142df7d
+Globetrotter 環遊旅行家,https://tang.serv00.net/zb/99.php?id=114&token=8142df7d
+MOMO親子,https://tang.serv00.net/zb/99.php?id=2767&token=8142df7d
+MOMO親子,https://tang.serv00.net/zb/99.php?id=1126&token=8142df7d
+東森幼幼（備）,https://tang.serv00.net/zb/99.php?id=2771&token=8142df7d
+東森幼幼,https://tang.serv00.net/zb/99.php?id=371&token=8142df7d
+東森亞洲呦呦,https://tang.serv00.net/zb/99.php?id=293&token=8142df7d
+CN卡通,https://tang.serv00.net/zb/99.php?id=107&token=8142df7d
+靖洋卡通,https://tang.serv00.net/zb/99.php?id=348&token=8142df7d
+靖天卡通,https://tang.serv00.net/zb/99.php?id=344&token=8142df7d
+大愛一臺,https://tang.serv00.net/zb/99.php?id=11&token=8142df7d
+港澳頻道,#genre#
+TVB翡翠,https://tang.serv00.net/zb/99.php?id=390&token=8142df7d
+TVB翡翠,https://tang.serv00.net/zb/99.php?id=30&token=8142df7d
+TVB明珠,https://tang.serv00.net/zb/99.php?id=2437&token=8142df7d
+TVB明珠,https://tang.serv00.net/zb/99.php?id=391&token=8142df7d
+無線新聞,https://tang.serv00.net/zb/99.php?id=45&token=8142df7d
+無線新聞,https://tang.serv00.net/zb/99.php?id=394&token=8142df7d
+HOY资讯台,https://tang.serv00.net/zb/99.php?id=395&token=8142df7d
+Viu TV,https://tang.serv00.net/zb/99.php?id=2334&token=8142df7d
+Viutv,https://tang.serv00.net/zb/99.php?id=72&token=8142df7d
+TVB財經,https://tang.serv00.net/zb/99.php?id=2818&token=8142df7d
+TVB財經,https://tang.serv00.net/zb/99.php?id=393&token=8142df7d
+TVB直播,https://tang.serv00.net/zb/99.php?id=2743&token=8142df7d
+TVB J2,https://tang.serv00.net/zb/99.php?id=392&token=8142df7d
+TVB J2,https://tang.serv00.net/zb/99.php?id=2834&token=8142df7d
+NOWTV,https://tang.serv00.net/zb/99.php?id=1246&token=8142df7d
+鳳凰香港,https://tang.serv00.net/zb/99.php?id=2810&token=8142df7d
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2291&token=8142df7d
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2812&token=8142df7d
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2811&token=8142df7d
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2292&token=8142df7d
+星空衛視,https://tang.serv00.net/zb/99.php?id=56&token=8142df7d
+HKIBC,https://tang.serv00.net/zb/99.php?id=354&token=8142df7d
+HOY,https://tang.serv00.net/zb/99.php?id=401&token=8142df7d
+澳門資訊,https://tang.serv00.net/zb/99.php?id=399&token=8142df7d
+澳視澳門,https://tang.serv00.net/zb/99.php?id=23&token=8142df7d
+澳視葡語,https://tang.serv00.net/zb/99.php?id=24&token=8142df7d
+18台,https://tang.serv00.net/zb/99.php?id=2813&token=8142df7d
+澳門Macau,https://tang.serv00.net/zb/99.php?id=364&token=8142df7d
+廣東珠江,https://tang.serv00.net/zb/99.php?id=1034&token=8142df7d
+18台,https://tang.serv00.net/zb/99.php?id=44&token=8142df7d
+澳門蓮花,https://tang.serv00.net/zb/99.php?id=70&token=8142df7d
+鳳凰電影,https://tang.serv00.net/zb/99.php?id=2814&token=8142df7d
+Viutv 6,https://tang.serv00.net/zb/99.php?id=176&token=8142df7d
+創世電視,https://tang.serv00.net/zb/99.php?id=1317&token=8142df7d
+澳亞衛視,https://tang.serv00.net/zb/99.php?id=85&token=8142df7d
+Euronews English,https://tang.serv00.net/zb/99.php?id=2342&token=8142df7d
+TVB亞洲劇,https://tang.serv00.net/zb/99.php?id=1048&token=8142df7d
+TVB粵語片,https://tang.serv00.net/zb/99.php?id=1589&token=8142df7d
+TVB功夫台,https://tang.serv00.net/zb/99.php?id=168&token=8142df7d
+亞美卫视,https://tang.serv00.net/zb/99.php?id=8&token=8142df7d
+TVB1,https://tang.serv00.net/zb/99.php?id=1242&token=8142df7d
+TVB DRAMA,https://tang.serv00.net/zb/99.php?id=1243&token=8142df7d
+TVBJ1,https://tang.serv00.net/zb/99.php?id=1244&token=8142df7d
+TVBE,https://tang.serv00.net/zb/99.php?id=1245&token=8142df7d
+新時代東部,https://tang.serv00.net/zb/99.php?id=1286&token=8142df7d
+新時代西部,https://tang.serv00.net/zb/99.php?id=1287&token=8142df7d
+新時代2,https://tang.serv00.net/zb/99.php?id=1288&token=8142df7d
+城市電視,https://tang.serv00.net/zb/99.php?id=1289&token=8142df7d
+TVB星河,https://tang.serv00.net/zb/99.php?id=1079&token=8142df7d
+TVB經典,https://tang.serv00.net/zb/99.php?id=1083&token=8142df7d
+新聞頻道,#genre#
+HOY资讯台,https://tang.serv00.net/zb/99.php?id=395&token=8142df7d
+HKIBC,https://tang.serv00.net/zb/99.php?id=354&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=43&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=2794&token=8142df7d
+三立新聞,https://tang.serv00.net/zb/99.php?id=2392&token=8142df7d
+三立+,https://tang.serv00.net/zb/99.php?id=320&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=1025&token=8142df7d
+東森新聞4,https://tang.serv00.net/zb/99.php?id=2766&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=1358&token=8142df7d
+東森新聞,https://tang.serv00.net/zb/99.php?id=2393&token=8142df7d
+東森亞洲,https://tang.serv00.net/zb/99.php?id=3&token=8142df7d
+中天新聞,https://tang.serv00.net/zb/99.php?id=2394&token=8142df7d
+中天新聞2台,https://tang.serv00.net/zb/99.php?id=152&token=8142df7d
+中天新聞,https://tang.serv00.net/zb/99.php?id=2420&token=8142df7d
+民視新聞,https://tang.serv00.net/zb/99.php?id=2395&token=8142df7d
+民視新聞,https://tang.serv00.net/zb/99.php?id=13&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2736&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2&token=8142df7d
+TVBS新聞,https://tang.serv00.net/zb/99.php?id=2396&token=8142df7d
+東森財經,https://tang.serv00.net/zb/99.php?id=2397&token=8142df7d
+東森財經,https://tang.serv00.net/zb/99.php?id=12&token=8142df7d
+華視新聞,https://tang.serv00.net/zb/99.php?id=2424&token=8142df7d
+華視新聞,https://tang.serv00.net/zb/99.php?id=1171&token=8142df7d
+三立iNEWS,https://tang.serv00.net/zb/99.php?id=2398&token=8142df7d
+三立iNEWS,https://tang.serv00.net/zb/99.php?id=6&token=8142df7d
+台視新聞,https://tang.serv00.net/zb/99.php?id=2399&token=8142df7d
+台視新聞,https://tang.serv00.net/zb/99.php?id=1&token=8142df7d
+中視新聞,https://tang.serv00.net/zb/99.php?id=2400&token=8142df7d
+中視新聞,https://tang.serv00.net/zb/99.php?id=7&token=8142df7d
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=2401&token=8142df7d
+寰宇新聞,https://tang.serv00.net/zb/99.php?id=304&token=8142df7d
+寰宇財經,https://tang.serv00.net/zb/99.php?id=2536&token=8142df7d
+公視新聞,https://tang.serv00.net/zb/99.php?id=20&token=8142df7d
+寰宇臺灣,https://tang.serv00.net/zb/99.php?id=87&token=8142df7d
+年代新聞,https://tang.serv00.net/zb/99.php?id=2719&token=8142df7d
+年代新聞,https://tang.serv00.net/zb/99.php?id=1099&token=8142df7d
+壹新聞,https://tang.serv00.net/zb/99.php?id=2777&token=8142df7d
+壹新聞,https://tang.serv00.net/zb/99.php?id=494&token=8142df7d
+非凡新聞,https://tang.serv00.net/zb/99.php?id=2795&token=8142df7d
+非凡新聞,https://tang.serv00.net/zb/99.php?id=314&token=8142df7d
+SBN全球財經,https://tang.serv00.net/zb/99.php?id=1497&token=8142df7d
+鏡新聞mnews,https://tang.serv00.net/zb/99.php?id=463&token=8142df7d
+鳳凰秀,https://tang.serv00.net/zb/99.php?id=1293&token=8142df7d
+三立国際,https://tang.serv00.net/zb/99.php?id=2285&token=8142df7d
+GB News,https://tang.serv00.net/zb/99.php?id=77&token=8142df7d
+DW德國之聲,https://tang.serv00.net/zb/99.php?id=1059&token=8142df7d
+FRANCE 24 English,https://tang.serv00.net/zb/99.php?id=2231&token=8142df7d
+新唐人亞太台,https://tang.serv00.net/zb/99.php?id=10&token=8142df7d
+CBN News,https://tang.serv00.net/zb/99.php?id=499&token=8142df7d
+TRTWORLD,https://tang.serv00.net/zb/99.php?id=1022&token=8142df7d
+Bloomberg Business,https://tang.serv00.net/zb/99.php?id=1046&token=8142df7d
+Al Jazeera,https://tang.serv00.net/zb/99.php?id=1144&token=8142df7d
+Bloomberg Quicktake,https://tang.serv00.net/zb/99.php?id=370&token=8142df7d
+Euronews English,https://tang.serv00.net/zb/99.php?id=2342&token=8142df7d
+CGTN English,https://tang.serv00.net/zb/99.php?id=2362&token=8142df7d
+CGTN Documentary,https://tang.serv00.net/zb/99.php?id=2363&token=8142df7d
+CGTN Français,https://tang.serv00.net/zb/99.php?id=2364&token=8142df7d
+CGTN Español,https://tang.serv00.net/zb/99.php?id=317&token=8142df7d
+CGTN العربية,https://tang.serv00.net/zb/99.php?id=1004&token=8142df7d
+NHK WORLD,https://tang.serv00.net/zb/99.php?id=1394&token=8142df7d
+United Nations,https://tang.serv00.net/zb/99.php?id=184&token=8142df7d
+CANAL 24,https://tang.serv00.net/zb/99.php?id=115&token=8142df7d
+Channels,https://tang.serv00.net/zb/99.php?id=1495&token=8142df7d
+ABC News Australia,https://tang.serv00.net/zb/99.php?id=2769&token=8142df7d
+FRANCE 24,https://tang.serv00.net/zb/99.php?id=1042&token=8142df7d
+CNN Indonesia,https://tang.serv00.net/zb/99.php?id=1145&token=8142df7d
+影視頻道,#genre#
+龍華日韓,https://tang.serv00.net/zb/99.php?id=382&token=8142df7d
+東森戲劇,https://tang.serv00.net/zb/99.php?id=2825&token=8142df7d
+東森戲劇,https://tang.serv00.net/zb/99.php?id=321&token=8142df7d
+八大戲劇,https://tang.serv00.net/zb/99.php?id=81&token=8142df7d
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=2727&token=8142df7d
+緯來戲劇,https://tang.serv00.net/zb/99.php?id=339&token=8142df7d
+東森電影,https://tang.serv00.net/zb/99.php?id=350&token=8142df7d
+東森電影,https://tang.serv00.net/zb/99.php?id=2720&token=8142df7d
+緯來電影,https://tang.serv00.net/zb/99.php?id=2728&token=8142df7d
+HBO HD,https://tang.serv00.net/zb/99.php?id=332&token=8142df7d
+HBO HD,https://tang.serv00.net/zb/99.php?id=2823&token=8142df7d
+東森洋片,https://tang.serv00.net/zb/99.php?id=1128&token=8142df7d
+壹電影,https://tang.serv00.net/zb/99.php?id=2284&token=8142df7d
+好萊塢電影,https://tang.serv00.net/zb/99.php?id=37&token=8142df7d
+愛爾達影劇,https://tang.serv00.net/zb/99.php?id=500&token=8142df7d
+CineMAX,https://tang.serv00.net/zb/99.php?id=346&token=8142df7d
+靖天映畫,https://tang.serv00.net/zb/99.php?id=349&token=8142df7d
+靖洋戲劇,https://tang.serv00.net/zb/99.php?id=319&token=8142df7d
+緯來精彩,https://tang.serv00.net/zb/99.php?id=2280&token=8142df7d
+EYE戲劇,https://tang.serv00.net/zb/99.php?id=191&token=8142df7d
+三立戲劇,https://tang.serv00.net/zb/99.php?id=64&token=8142df7d
+三立戲劇,https://tang.serv00.net/zb/99.php?id=2819&token=8142df7d
+龍華偶像,https://tang.serv00.net/zb/99.php?id=385&token=8142df7d
+霹靂臺灣,https://tang.serv00.net/zb/99.php?id=1339&token=8142df7d
+靖天電影,https://tang.serv00.net/zb/99.php?id=110&token=8142df7d
+美亞電影,https://tang.serv00.net/zb/99.php?id=375&token=8142df7d
+民視影劇,https://tang.serv00.net/zb/99.php?id=1023&token=8142df7d
+AMC,https://tang.serv00.net/zb/99.php?id=84&token=8142df7d
+HBOSignature,https://tang.serv00.net/zb/99.php?id=329&token=8142df7d
+HBOSignature,https://tang.serv00.net/zb/99.php?id=2824&token=8142df7d
+HBO Hits,https://tang.serv00.net/zb/99.php?id=330&token=8142df7d
+采昌影劇,https://tang.serv00.net/zb/99.php?id=62&token=8142df7d
+采昌影劇,https://tang.serv00.net/zb/99.php?id=2804&token=8142df7d
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=497&token=8142df7d
+影迷數位電影,https://tang.serv00.net/zb/99.php?id=2800&token=8142df7d
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=365&token=8142df7d
+龍華戲劇,https://tang.serv00.net/zb/99.php?id=2796&token=8142df7d
+龍華經典,https://tang.serv00.net/zb/99.php?id=100&token=8142df7d
+龍翔時代,https://tang.serv00.net/zb/99.php?id=373&token=8142df7d
+AXN臺灣,https://tang.serv00.net/zb/99.php?id=2816&token=8142df7d
+天映經典,https://tang.serv00.net/zb/99.php?id=2289&token=8142df7d
+公視戲劇,https://tang.serv00.net/zb/99.php?id=69&token=8142df7d
+AXN亞洲,https://tang.serv00.net/zb/99.php?id=1066&token=8142df7d
+Trill恐怖電影,https://tang.serv00.net/zb/99.php?id=18&token=8142df7d
+龍華電影,https://tang.serv00.net/zb/99.php?id=311&token=8142df7d
+華納電影,https://tang.serv00.net/zb/99.php?id=83&token=8142df7d
+甄嬛传,https://tang.serv00.net/zb/99.php?id=1060&token=8142df7d
+靖天戲劇,https://tang.serv00.net/zb/99.php?id=109&token=8142df7d
+CATCHPLAY,https://tang.serv00.net/zb/99.php?id=362&token=8142df7d
+TVB亞洲劇,https://tang.serv00.net/zb/99.php?id=1048&token=8142df7d
+TVB粵語片,https://tang.serv00.net/zb/99.php?id=1589&token=8142df7d
+CHC高清電影,https://tang.serv00.net/zb/99.php?id=1345&token=8142df7d
+CHC動作電影,https://tang.serv00.net/zb/99.php?id=1346&token=8142df7d
+CHC家庭影院,https://tang.serv00.net/zb/99.php?id=1347&token=8142df7d
+CBN歡笑劇場4K,https://tang.serv00.net/zb/99.php?id=1348&token=8142df7d
+SETONE,https://tang.serv00.net/zb/99.php?id=1349&token=8142df7d
+GEM,https://tang.serv00.net/zb/99.php?id=1350&token=8142df7d
+龍華洋片,https://tang.serv00.net/zb/99.php?id=341&token=8142df7d
+TVB功夫台,https://tang.serv00.net/zb/99.php?id=168&token=8142df7d
+新兵日記,https://tang.serv00.net/zb/99.php?id=264&token=8142df7d
+藍色水玲瓏,https://tang.serv00.net/zb/99.php?id=1690&token=8142df7d
+新玫瑰瞳鈴眼,https://tang.serv00.net/zb/99.php?id=2555&token=8142df7d
+體育頻道,#genre#
+緯來體育,https://tang.serv00.net/zb/99.php?id=118&token=8142df7d
+緯來體育,https://tang.serv00.net/zb/99.php?id=2732&token=8142df7d
+NBA(TW),https://tang.serv00.net/zb/99.php?id=71&token=8142df7d
+FOX Sport 1,https://tang.serv00.net/zb/99.php?id=2791&token=8142df7d
+FOX Sport 2,https://tang.serv00.net/zb/99.php?id=1132&token=8142df7d
+Eleven Sport 1,https://tang.serv00.net/zb/99.php?id=3224&token=8142df7d
+Eleven Sport 2,https://tang.serv00.net/zb/99.php?id=301&token=8142df7d
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=192&token=8142df7d
+ELTA體育1,https://tang.serv00.net/zb/99.php?id=2729&token=8142df7d
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=193&token=8142df7d
+ELTA體育2,https://tang.serv00.net/zb/99.php?id=2730&token=8142df7d
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=194&token=8142df7d
+ELTA體育3,https://tang.serv00.net/zb/99.php?id=2731&token=8142df7d
+ELTA體育3台,https://tang.serv00.net/zb/99.php?id=2722&token=8142df7d
+ELTA體育4,https://tang.serv00.net/zb/99.php?id=2820&token=8142df7d
+Z頻道,https://tang.serv00.net/zb/99.php?id=1130&token=8142df7d
+博斯無限,https://tang.serv00.net/zb/99.php?id=381&token=8142df7d
+博斯無限,https://tang.serv00.net/zb/99.php?id=2797&token=8142df7d
+博斯無限2,https://tang.serv00.net/zb/99.php?id=426&token=8142df7d
+博斯無限2,https://tang.serv00.net/zb/99.php?id=2798&token=8142df7d
+博斯網球,https://tang.serv00.net/zb/99.php?id=498&token=8142df7d
+博斯高球1,https://tang.serv00.net/zb/99.php?id=377&token=8142df7d
+博斯高球2,https://tang.serv00.net/zb/99.php?id=378&token=8142df7d
+博斯魅力,https://tang.serv00.net/zb/99.php?id=175&token=8142df7d
+博斯運動1,https://tang.serv00.net/zb/99.php?id=379&token=8142df7d
+博斯運動2,https://tang.serv00.net/zb/99.php?id=380&token=8142df7d
+TRACE Sport Stars,https://tang.serv00.net/zb/99.php?id=1037&token=8142df7d
+歐洲體育,https://tang.serv00.net/zb/99.php?id=1342&token=8142df7d
+魅力足球,https://tang.serv00.net/zb/99.php?id=464&token=8142df7d
+BeIN Sport News,https://tang.serv00.net/zb/99.php?id=2402&token=8142df7d
+BeIN Sport 1,https://tang.serv00.net/zb/99.php?id=2403&token=8142df7d
+BeIN Sport 2,https://tang.serv00.net/zb/99.php?id=2404&token=8142df7d
+BeIN Sport 3,https://tang.serv00.net/zb/99.php?id=2405&token=8142df7d
+BeIN Sport 4,https://tang.serv00.net/zb/99.php?id=2406&token=8142df7d
+BeIN Sport 5,https://tang.serv00.net/zb/99.php?id=2407&token=8142df7d
+BeIN Sport 6,https://tang.serv00.net/zb/99.php?id=2408&token=8142df7d
+BeIN Sport 7,https://tang.serv00.net/zb/99.php?id=2409&token=8142df7d
+BeIN Sport 8,https://tang.serv00.net/zb/99.php?id=2410&token=8142df7d
+BeIN Sport 9,https://tang.serv00.net/zb/99.php?id=2411&token=8142df7d
+BeIN Sport 10,https://tang.serv00.net/zb/99.php?id=2412&token=8142df7d
+BeIN Sport 11,https://tang.serv00.net/zb/99.php?id=2413&token=8142df7d
+BeIN Sport 12,https://tang.serv00.net/zb/99.php?id=2414&token=8142df7d
+Bein Sport 13,https://tang.serv00.net/zb/99.php?id=2415&token=8142df7d
+Bein Sport 15,https://tang.serv00.net/zb/99.php?id=2416&token=8142df7d
+Bein sports,https://tang.serv00.net/zb/99.php?id=2417&token=8142df7d
+Bein Sport 14,https://tang.serv00.net/zb/99.php?id=2418&token=8142df7d
+J SPORTS 1,https://tang.serv00.net/zb/99.php?id=129&token=8142df7d
+J SPORTS 2,https://tang.serv00.net/zb/99.php?id=130&token=8142df7d
+J SPORTS 3,https://tang.serv00.net/zb/99.php?id=131&token=8142df7d
+J SPORTS 4,https://tang.serv00.net/zb/99.php?id=132&token=8142df7d
+KBSN Sports,https://tang.serv00.net/zb/99.php?id=2353&token=8142df7d
+Spotv,https://tang.serv00.net/zb/99.php?id=266&token=8142df7d
+Spotv2,https://tang.serv00.net/zb/99.php?id=267&token=8142df7d
+SBS Sports,https://tang.serv00.net/zb/99.php?id=487&token=8142df7d
+bt espn hd,https://tang.serv00.net/zb/99.php?id=2790&token=8142df7d
+ESPN 1,https://tang.serv00.net/zb/99.php?id=1182&token=8142df7d
+ESPN 2,https://tang.serv00.net/zb/99.php?id=1183&token=8142df7d
+ESPN 2,https://tang.serv00.net/zb/99.php?id=2789&token=8142df7d
+NBA,https://tang.serv00.net/zb/99.php?id=2792&token=8142df7d
+NBA TV US,https://tang.serv00.net/zb/99.php?id=1185&token=8142df7d
+Fox Sport 1,https://tang.serv00.net/zb/99.php?id=1186&token=8142df7d
+Fox Sport 2,https://tang.serv00.net/zb/99.php?id=1187&token=8142df7d
+TSN 1,https://tang.serv00.net/zb/99.php?id=1273&token=8142df7d
+TSN 2,https://tang.serv00.net/zb/99.php?id=1274&token=8142df7d
+TSN 3,https://tang.serv00.net/zb/99.php?id=1275&token=8142df7d
+TSN 4,https://tang.serv00.net/zb/99.php?id=1276&token=8142df7d
+TSN 5,https://tang.serv00.net/zb/99.php?id=1277&token=8142df7d
+SportNet ON,https://tang.serv00.net/zb/99.php?id=1278&token=8142df7d
+SportNet One,https://tang.serv00.net/zb/99.php?id=1279&token=8142df7d
+SportNet World,https://tang.serv00.net/zb/99.php?id=1280&token=8142df7d
+SportNet 360,https://tang.serv00.net/zb/99.php?id=1281&token=8142df7d
+NBA CA,https://tang.serv00.net/zb/99.php?id=1282&token=8142df7d
+BT Sport 2,https://tang.serv00.net/zb/99.php?id=166&token=8142df7d
+BT Sport 3,https://tang.serv00.net/zb/99.php?id=167&token=8142df7d
+BT Sport 1,https://tang.serv00.net/zb/99.php?id=165&token=8142df7d
+Sky Sports 1,https://tang.serv00.net/zb/99.php?id=172&token=8142df7d
+Sky Sport 2,https://tang.serv00.net/zb/99.php?id=171&token=8142df7d
+Sky Sports F1,https://tang.serv00.net/zb/99.php?id=182&token=8142df7d
+Sky Sport 3,https://tang.serv00.net/zb/99.php?id=183&token=8142df7d
+Sky Sport 4,https://tang.serv00.net/zb/99.php?id=417&token=8142df7d
+Sky Sport 5,https://tang.serv00.net/zb/99.php?id=418&token=8142df7d
+sky sports racing hd,https://tang.serv00.net/zb/99.php?id=2778&token=8142df7d
+sky sports mix,https://tang.serv00.net/zb/99.php?id=2780&token=8142df7d
+sky sports arena,https://tang.serv00.net/zb/99.php?id=2781&token=8142df7d
+sky sports football,https://tang.serv00.net/zb/99.php?id=2782&token=8142df7d
+sky sports premier league,https://tang.serv00.net/zb/99.php?id=2783&token=8142df7d
+sky sports the open,https://tang.serv00.net/zb/99.php?id=2784&token=8142df7d
+sky sports action,https://tang.serv00.net/zb/99.php?id=2785&token=8142df7d
+sky sports cricket,https://tang.serv00.net/zb/99.php?id=2786&token=8142df7d
+sky sports main event,https://tang.serv00.net/zb/99.php?id=2787&token=8142df7d
+Bein Sport 4 Max,https://tang.serv00.net/zb/99.php?id=1405&token=8142df7d
+Bein Sport 5 Max,https://tang.serv00.net/zb/99.php?id=1450&token=8142df7d
+Bein Sport 1,https://tang.serv00.net/zb/99.php?id=1085&token=8142df7d
+Bein Sport 3,https://tang.serv00.net/zb/99.php?id=2230&token=8142df7d
+SKY SPORT NBA,https://tang.serv00.net/zb/99.php?id=2738&token=8142df7d
+SKY SPORT ARENA,https://tang.serv00.net/zb/99.php?id=2739&token=8142df7d
+SKY F1,https://tang.serv00.net/zb/99.php?id=2740&token=8142df7d
+Sky sport uno,https://tang.serv00.net/zb/99.php?id=1597&token=8142df7d
+Rai Sport,https://tang.serv00.net/zb/99.php?id=1613&token=8142df7d
+Suria,https://tang.serv00.net/zb/99.php?id=434&token=8142df7d
+Astro Sp1,https://tang.serv00.net/zb/99.php?id=444&token=8142df7d
+ASSP1_HD,https://tang.serv00.net/zb/99.php?id=1070&token=8142df7d
+Astro Sp2,https://tang.serv00.net/zb/99.php?id=445&token=8142df7d
+ASSP2_HD,https://tang.serv00.net/zb/99.php?id=1071&token=8142df7d
+Astro Sp3,https://tang.serv00.net/zb/99.php?id=446&token=8142df7d
+Astro Sp4,https://tang.serv00.net/zb/99.php?id=447&token=8142df7d
+Astro Sp5,https://tang.serv00.net/zb/99.php?id=2432&token=8142df7d
+Sport TV 1,https://tang.serv00.net/zb/99.php?id=1779&token=8142df7d
+Sport TV 2,https://tang.serv00.net/zb/99.php?id=1785&token=8142df7d
+Sport TV 3,https://tang.serv00.net/zb/99.php?id=2135&token=8142df7d
+紀實頻道,#genre#
+亞洲旅遊,https://tang.serv00.net/zb/99.php?id=2299&token=8142df7d
+探索頻道,https://tang.serv00.net/zb/99.php?id=2817&token=8142df7d
+探索頻道,https://tang.serv00.net/zb/99.php?id=1035&token=8142df7d
+大陸尋奇,https://tang.serv00.net/zb/99.php?id=102&token=8142df7d
+TLC,https://tang.serv00.net/zb/99.php?id=2275&token=8142df7d
+動物星球,https://tang.serv00.net/zb/99.php?id=367&token=8142df7d
+Fashion One,https://tang.serv00.net/zb/99.php?id=113&token=8142df7d
+民視旅遊,https://tang.serv00.net/zb/99.php?id=78&token=8142df7d
+探索亞洲,https://tang.serv00.net/zb/99.php?id=306&token=8142df7d
+探索科學,https://tang.serv00.net/zb/99.php?id=343&token=8142df7d
+Nat Geo WILD,https://tang.serv00.net/zb/99.php?id=388&token=8142df7d
+國家野生,https://tang.serv00.net/zb/99.php?id=1038&token=8142df7d
+HGTV,https://tang.serv00.net/zb/99.php?id=1159&token=8142df7d
+CI罪案偵查,https://tang.serv00.net/zb/99.php?id=2303&token=8142df7d
+探索EVE,https://tang.serv00.net/zb/99.php?id=1036&token=8142df7d
+BBC Lifestyle,https://tang.serv00.net/zb/99.php?id=424&token=8142df7d
+視納華仁紀實,https://tang.serv00.net/zb/99.php?id=91&token=8142df7d
+美食星球,https://tang.serv00.net/zb/99.php?id=3073&token=8142df7d
+美食星球,https://tang.serv00.net/zb/99.php?id=1360&token=8142df7d
+EYE旅遊,https://tang.serv00.net/zb/99.php?id=1494&token=8142df7d
+Travel Channel,https://tang.serv00.net/zb/99.php?id=63&token=8142df7d
+BBC EARTH,https://tang.serv00.net/zb/99.php?id=97&token=8142df7d
+探索動力DMAX,https://tang.serv00.net/zb/99.php?id=335&token=8142df7d
+Pet Club,https://tang.serv00.net/zb/99.php?id=368&token=8142df7d
+Globetrotter 環遊旅行家,https://tang.serv00.net/zb/99.php?id=114&token=8142df7d
+NASA TV,https://tang.serv00.net/zb/99.php?id=25&token=8142df7d
+NASA Live,https://tang.serv00.net/zb/99.php?id=196&token=8142df7d
+TV5MONDE STYLE,https://tang.serv00.net/zb/99.php?id=389&token=8142df7d
+動物世界,https://tang.serv00.net/zb/99.php?id=291&token=8142df7d
+法國時裝,https://tang.serv00.net/zb/99.php?id=2287&token=8142df7d
+台灣啟示錄,https://tang.serv00.net/zb/99.php?id=2765&token=8142df7d
+TLC,https://tang.serv00.net/zb/99.php?id=1533&token=8142df7d
+National Geographic,https://tang.serv00.net/zb/99.php?id=294&token=8142df7d
+TLC Canada,https://tang.serv00.net/zb/99.php?id=1262&token=8142df7d
+Food Network Canada,https://tang.serv00.net/zb/99.php?id=1265&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=1413&token=8142df7d
+Food Network 英,https://tang.serv00.net/zb/99.php?id=1421&token=8142df7d
+少兒頻道,#genre#
+Leigha Marina,https://tang.serv00.net/zb/99.php?id=313&token=8142df7d
+MOMO親子,https://tang.serv00.net/zb/99.php?id=2767&token=8142df7d
+MOMO親子,https://tang.serv00.net/zb/99.php?id=1126&token=8142df7d
+東森幼幼（備）,https://tang.serv00.net/zb/99.php?id=2771&token=8142df7d
+東森幼幼,https://tang.serv00.net/zb/99.php?id=371&token=8142df7d
+東森亞洲呦呦,https://tang.serv00.net/zb/99.php?id=293&token=8142df7d
+BabyBus,https://tang.serv00.net/zb/99.php?id=355&token=8142df7d
+CN Asia,https://tang.serv00.net/zb/99.php?id=2768&token=8142df7d
+Nick Jr.,https://tang.serv00.net/zb/99.php?id=50&token=8142df7d
+PAW Patrol,https://tang.serv00.net/zb/99.php?id=2226&token=8142df7d
+Spidey,https://tang.serv00.net/zb/99.php?id=2270&token=8142df7d
+Dreamworks,https://tang.serv00.net/zb/99.php?id=48&token=8142df7d
+CN卡通,https://tang.serv00.net/zb/99.php?id=107&token=8142df7d
+Curious George,https://tang.serv00.net/zb/99.php?id=173&token=8142df7d
+Gabby Dollhouse,https://tang.serv00.net/zb/99.php?id=1344&token=8142df7d
+Animax,https://tang.serv00.net/zb/99.php?id=59&token=8142df7d
+Bluey,https://tang.serv00.net/zb/99.php?id=143&token=8142df7d
+靖洋卡通,https://tang.serv00.net/zb/99.php?id=348&token=8142df7d
+YOYO TV,https://tang.serv00.net/zb/99.php?id=340&token=8142df7d
+靖天卡通,https://tang.serv00.net/zb/99.php?id=344&token=8142df7d
+i-Fun動漫,https://tang.serv00.net/zb/99.php?id=1127&token=8142df7d
+i-Fun動漫,https://tang.serv00.net/zb/99.php?id=2802&token=8142df7d
+達文西,https://tang.serv00.net/zb/99.php?id=68&token=8142df7d
+Baby TV,https://tang.serv00.net/zb/99.php?id=1129&token=8142df7d
+Treehouse,https://tang.serv00.net/zb/99.php?id=55&token=8142df7d
+Nickj,https://tang.serv00.net/zb/99.php?id=53&token=8142df7d
+Disney,https://tang.serv00.net/zb/99.php?id=5&token=8142df7d
+Disneyxd,https://tang.serv00.net/zb/99.php?id=31&token=8142df7d
+Disneyj,https://tang.serv00.net/zb/99.php?id=47&token=8142df7d
+Boomerang,https://tang.serv00.net/zb/99.php?id=57&token=8142df7d
+Disney Junior,https://tang.serv00.net/zb/99.php?id=460&token=8142df7d
+Hogi,https://tang.serv00.net/zb/99.php?id=2346&token=8142df7d
+Baby Shark,https://tang.serv00.net/zb/99.php?id=1399&token=8142df7d
+Phineas and Ferb,https://tang.serv00.net/zb/99.php?id=1098&token=8142df7d
+Talking Tom,https://tang.serv00.net/zb/99.php?id=2696&token=8142df7d
+Robocar POLI,https://tang.serv00.net/zb/99.php?id=298&token=8142df7d
+SpongeBob,https://tang.serv00.net/zb/99.php?id=1094&token=8142df7d
+Baby Zoo Songs,https://tang.serv00.net/zb/99.php?id=2438&token=8142df7d
+朱妮托尼,https://tang.serv00.net/zb/99.php?id=2537&token=8142df7d
+Beep Beep,https://tang.serv00.net/zb/99.php?id=3015&token=8142df7d
+Super Heroes,https://tang.serv00.net/zb/99.php?id=2978&token=8142df7d
+Winnie,https://tang.serv00.net/zb/99.php?id=3018&token=8142df7d
+音樂宗教,#genre#
+好消息,https://tang.serv00.net/zb/99.php?id=104&token=8142df7d
+好消息2,https://tang.serv00.net/zb/99.php?id=363&token=8142df7d
+Water Sounds,https://tang.serv00.net/zb/99.php?id=496&token=8142df7d
+Hits Radio,https://tang.serv00.net/zb/99.php?id=4&token=8142df7d
+Unbelievable Beauty,https://tang.serv00.net/zb/99.php?id=1002&token=8142df7d
+Relaxing Music,https://tang.serv00.net/zb/99.php?id=151&token=8142df7d
+Relaxing Jazz Piano,https://tang.serv00.net/zb/99.php?id=1351&token=8142df7d
+輕鬆音樂,https://tang.serv00.net/zb/99.php?id=1361&token=8142df7d
+One World Radio,https://tang.serv00.net/zb/99.php?id=1153&token=8142df7d
+Mezzo Live,https://tang.serv00.net/zb/99.php?id=60&token=8142df7d
+8FM,https://tang.serv00.net/zb/99.php?id=9&token=8142df7d
+Lofi Hip Hop,https://tang.serv00.net/zb/99.php?id=2350&token=8142df7d
+Eight FM,https://tang.serv00.net/zb/99.php?id=1021&token=8142df7d
+自然の音,https://tang.serv00.net/zb/99.php?id=1138&token=8142df7d
+4K Nature,https://tang.serv00.net/zb/99.php?id=1015&token=8142df7d
+Coffee Jazz,https://tang.serv00.net/zb/99.php?id=1019&token=8142df7d
+Space Ambient,https://tang.serv00.net/zb/99.php?id=1005&token=8142df7d
+Rolling Cam Venice,https://tang.serv00.net/zb/99.php?id=1007&token=8142df7d
+大愛一臺,https://tang.serv00.net/zb/99.php?id=11&token=8142df7d
+大愛二臺,https://tang.serv00.net/zb/99.php?id=197&token=8142df7d
+Baroque Live Music,https://tang.serv00.net/zb/99.php?id=1027&token=8142df7d
+唯心電視,https://tang.serv00.net/zb/99.php?id=1150&token=8142df7d
+人間衛視,https://tang.serv00.net/zb/99.php?id=101&token=8142df7d
+Good Life Radio,https://tang.serv00.net/zb/99.php?id=1152&token=8142df7d
+Rainy Jazz,https://tang.serv00.net/zb/99.php?id=1089&token=8142df7d
+Deep House Radio,https://tang.serv00.net/zb/99.php?id=1090&token=8142df7d
+Sleeping Music,https://tang.serv00.net/zb/99.php?id=1087&token=8142df7d
+Relaxing Piano Collection,https://tang.serv00.net/zb/99.php?id=1088&token=8142df7d
+Trace Urban,https://tang.serv00.net/zb/99.php?id=1003&token=8142df7d
+佛衛慈悲台,https://tang.serv00.net/zb/99.php?id=1306&token=8142df7d
+生命電視,https://tang.serv00.net/zb/99.php?id=1124&token=8142df7d
+華藏電視,https://tang.serv00.net/zb/99.php?id=1053&token=8142df7d
+西洋排行榜,https://tang.serv00.net/zb/99.php?id=1602&token=8142df7d
+治愈音樂,https://tang.serv00.net/zb/99.php?id=1503&token=8142df7d
+正德電視,https://tang.serv00.net/zb/99.php?id=42&token=8142df7d
+SupremeMasterTV,https://tang.serv00.net/zb/99.php?id=323&token=8142df7d
+鳥鳴音樂,https://tang.serv00.net/zb/99.php?id=1407&token=8142df7d
+GRASS COTTON,https://tang.serv00.net/zb/99.php?id=3221&token=8142df7d
+大陸頻道,#genre#
+CGTN English,https://tang.serv00.net/zb/99.php?id=2362&token=8142df7d
+CGTN Documentary,https://tang.serv00.net/zb/99.php?id=2363&token=8142df7d
+CGTN Français,https://tang.serv00.net/zb/99.php?id=2364&token=8142df7d
+CGTN Español,https://tang.serv00.net/zb/99.php?id=317&token=8142df7d
+CGTN العربية,https://tang.serv00.net/zb/99.php?id=1004&token=8142df7d
+CCTV1,https://tang.serv00.net/zb/99.php?id=200&token=8142df7d
+CCTV1,https://tang.serv00.net/zb/99.php?id=2305&token=8142df7d
+CCTV2,https://tang.serv00.net/zb/99.php?id=201&token=8142df7d
+CCTV2,https://tang.serv00.net/zb/99.php?id=2763&token=8142df7d
+CCTV3,https://tang.serv00.net/zb/99.php?id=202&token=8142df7d
+CCTV3,https://tang.serv00.net/zb/99.php?id=2808&token=8142df7d
+CCTV4,https://tang.serv00.net/zb/99.php?id=248&token=8142df7d
+CCTV4,https://tang.serv00.net/zb/99.php?id=203&token=8142df7d
+CCTV4,https://tang.serv00.net/zb/99.php?id=2764&token=8142df7d
+CCTV5,https://tang.serv00.net/zb/99.php?id=204&token=8142df7d
+CCTV5,https://tang.serv00.net/zb/99.php?id=2760&token=8142df7d
+CCTV5plus,https://tang.serv00.net/zb/99.php?id=205&token=8142df7d
+CCTV5plus,https://tang.serv00.net/zb/99.php?id=2759&token=8142df7d
+CCTV6,https://tang.serv00.net/zb/99.php?id=206&token=8142df7d
+CCTV6,https://tang.serv00.net/zb/99.php?id=2758&token=8142df7d
+CCTV7,https://tang.serv00.net/zb/99.php?id=207&token=8142df7d
+CCTV7,https://tang.serv00.net/zb/99.php?id=2757&token=8142df7d
+CCTV8,https://tang.serv00.net/zb/99.php?id=208&token=8142df7d
+CCTV8,https://tang.serv00.net/zb/99.php?id=2756&token=8142df7d
+CCTV9,https://tang.serv00.net/zb/99.php?id=2308&token=8142df7d
+CCTV9,https://tang.serv00.net/zb/99.php?id=209&token=8142df7d
+CCTV10,https://tang.serv00.net/zb/99.php?id=210&token=8142df7d
+CCTV11,https://tang.serv00.net/zb/99.php?id=2809&token=8142df7d
+CCTV11,https://tang.serv00.net/zb/99.php?id=211&token=8142df7d
+CCTV12,https://tang.serv00.net/zb/99.php?id=212&token=8142df7d
+CCTV12,https://tang.serv00.net/zb/99.php?id=2755&token=8142df7d
+CCTV13,https://tang.serv00.net/zb/99.php?id=213&token=8142df7d
+CCTV13,https://tang.serv00.net/zb/99.php?id=2754&token=8142df7d
+CCTV14,https://tang.serv00.net/zb/99.php?id=214&token=8142df7d
+CCTV14,https://tang.serv00.net/zb/99.php?id=2826&token=8142df7d
+CCTV15,https://tang.serv00.net/zb/99.php?id=215&token=8142df7d
+CCTV16,https://tang.serv00.net/zb/99.php?id=2821&token=8142df7d
+浙江卫视,https://tang.serv00.net/zb/99.php?id=217&token=8142df7d
+江苏卫视,https://tang.serv00.net/zb/99.php?id=2829&token=8142df7d
+江苏卫视,https://tang.serv00.net/zb/99.php?id=218&token=8142df7d
+南方卫视,https://tang.serv00.net/zb/99.php?id=219&token=8142df7d
+北京卫视,https://tang.serv00.net/zb/99.php?id=220&token=8142df7d
+广东卫视,https://tang.serv00.net/zb/99.php?id=231&token=8142df7d
+广东卫视,https://tang.serv00.net/zb/99.php?id=1499&token=8142df7d
+东方卫视,https://tang.serv00.net/zb/99.php?id=224&token=8142df7d
+河南卫视,https://tang.serv00.net/zb/99.php?id=225&token=8142df7d
+湖南卫视,https://tang.serv00.net/zb/99.php?id=226&token=8142df7d
+湖北卫视,https://tang.serv00.net/zb/99.php?id=227&token=8142df7d
+东南卫视,https://tang.serv00.net/zb/99.php?id=228&token=8142df7d
+辽宁卫视,https://tang.serv00.net/zb/99.php?id=229&token=8142df7d
+深圳卫视,https://tang.serv00.net/zb/99.php?id=230&token=8142df7d
+安徽卫视,https://tang.serv00.net/zb/99.php?id=232&token=8142df7d
+安徽卫视,https://tang.serv00.net/zb/99.php?id=2830&token=8142df7d
+四川卫视,https://tang.serv00.net/zb/99.php?id=233&token=8142df7d
+山东卫视,https://tang.serv00.net/zb/99.php?id=234&token=8142df7d
+青田電視台,https://tang.serv00.net/zb/99.php?id=2295&token=8142df7d
+天津衛視,https://tang.serv00.net/zb/99.php?id=1093&token=8142df7d
+江西衛視,https://tang.serv00.net/zb/99.php?id=1097&token=8142df7d
+新疆衛視,https://tang.serv00.net/zb/99.php?id=1026&token=8142df7d
+にっぽん,#genre#
+JapaNews24,https://tang.serv00.net/zb/99.php?id=425&token=8142df7d
+スカイA,https://tang.serv00.net/zb/99.php?id=2433&token=8142df7d
+ANN/テレ朝,https://tang.serv00.net/zb/99.php?id=1502&token=8142df7d
+日テレニュース24,https://tang.serv00.net/zb/99.php?id=292&token=8142df7d
+フジone,https://tang.serv00.net/zb/99.php?id=2300&token=8142df7d
+フジ two,https://tang.serv00.net/zb/99.php?id=2301&token=8142df7d
+フジ next,https://tang.serv00.net/zb/99.php?id=2750&token=8142df7d
+KANSAI News24,https://tang.serv00.net/zb/99.php?id=247&token=8142df7d
+メ～テレNEWS,https://tang.serv00.net/zb/99.php?id=245&token=8142df7d
+広島ニュース,https://tang.serv00.net/zb/99.php?id=1095&token=8142df7d
+TBS NEWS,https://tang.serv00.net/zb/99.php?id=1096&token=8142df7d
+RKB NEWS 24,https://tang.serv00.net/zb/99.php?id=1043&token=8142df7d
+STV NEWS,https://tang.serv00.net/zb/99.php?id=1500&token=8142df7d
+テレ朝チャンネル1,https://tang.serv00.net/zb/99.php?id=2271&token=8142df7d
+テレ朝チャンネル2,https://tang.serv00.net/zb/99.php?id=2344&token=8142df7d
+スポーツライブ＋,https://tang.serv00.net/zb/99.php?id=2343&token=8142df7d
+読売テレビ,https://tang.serv00.net/zb/99.php?id=198&token=8142df7d
+関西テレビ,https://tang.serv00.net/zb/99.php?id=235&token=8142df7d
+BS日テレ,https://tang.serv00.net/zb/99.php?id=240&token=8142df7d
+BS朝日,https://tang.serv00.net/zb/99.php?id=241&token=8142df7d
+BS-TBS,https://tang.serv00.net/zb/99.php?id=242&token=8142df7d
+BSテレビ東京,https://tang.serv00.net/zb/99.php?id=243&token=8142df7d
+SATVニュース,https://tang.serv00.net/zb/99.php?id=1594&token=8142df7d
+BSフジ,https://tang.serv00.net/zb/99.php?id=244&token=8142df7d
+旅チャンネル,https://tang.serv00.net/zb/99.php?id=2304&token=8142df7d
+NHK BS Premium,https://tang.serv00.net/zb/99.php?id=2807&token=8142df7d
+いつでも静岡,https://tang.serv00.net/zb/99.php?id=421&token=8142df7d
+TOKYO MX 1,https://tang.serv00.net/zb/99.php?id=2204&token=8142df7d
+TOKYO MX 2,https://tang.serv00.net/zb/99.php?id=2205&token=8142df7d
+朝日放送テレビ,https://tang.serv00.net/zb/99.php?id=237&token=8142df7d
+時代劇専門チャンネル,https://tang.serv00.net/zb/99.php?id=287&token=8142df7d
+TV Tokyo,https://tang.serv00.net/zb/99.php?id=123&token=8142df7d
+J SPORTS 1,https://tang.serv00.net/zb/99.php?id=129&token=8142df7d
+J SPORTS 2,https://tang.serv00.net/zb/99.php?id=130&token=8142df7d
+J SPORTS 3,https://tang.serv00.net/zb/99.php?id=131&token=8142df7d
+J SPORTS 4,https://tang.serv00.net/zb/99.php?id=132&token=8142df7d
+ABC朝日,https://tang.serv00.net/zb/99.php?id=127&token=8142df7d
+FU JI,https://tang.serv00.net/zb/99.php?id=122&token=8142df7d
+テレビ東京,https://tang.serv00.net/zb/99.php?id=2202&token=8142df7d
+フジテレビ,https://tang.serv00.net/zb/99.php?id=2203&token=8142df7d
+テレビ朝日,https://tang.serv00.net/zb/99.php?id=125&token=8142df7d
+大阪TV,https://tang.serv00.net/zb/99.php?id=126&token=8142df7d
+WOWOWプライム,https://tang.serv00.net/zb/99.php?id=133&token=8142df7d
+WOWOWライブ,https://tang.serv00.net/zb/99.php?id=134&token=8142df7d
+WOWOWシネマ,https://tang.serv00.net/zb/99.php?id=135&token=8142df7d
+スターチャンネル1,https://tang.serv00.net/zb/99.php?id=136&token=8142df7d
+スターチャンネル2,https://tang.serv00.net/zb/99.php?id=137&token=8142df7d
+スターチャンネル3,https://tang.serv00.net/zb/99.php?id=138&token=8142df7d
+日本テレビ,https://tang.serv00.net/zb/99.php?id=119&token=8142df7d
+毎日放送,https://tang.serv00.net/zb/99.php?id=199&token=8142df7d
+ゴルフネットワーク,https://tang.serv00.net/zb/99.php?id=249&token=8142df7d
+HTB北海道,https://tang.serv00.net/zb/99.php?id=39&token=8142df7d
+日テレG+,https://tang.serv00.net/zb/99.php?id=2298&token=8142df7d
+GAORA SPORTS,https://tang.serv00.net/zb/99.php?id=296&token=8142df7d
+TBS,https://tang.serv00.net/zb/99.php?id=124&token=8142df7d
+TBS,https://tang.serv00.net/zb/99.php?id=2201&token=8142df7d
+アニマックス,https://tang.serv00.net/zb/99.php?id=139&token=8142df7d
+グリーンチャンネル,https://tang.serv00.net/zb/99.php?id=140&token=8142df7d
+キッズステーション,https://tang.serv00.net/zb/99.php?id=289&token=8142df7d
+静岡ニュース,https://tang.serv00.net/zb/99.php?id=297&token=8142df7d
+カートゥーンネットワーク,https://tang.serv00.net/zb/99.php?id=1296&token=8142df7d
+MUSIC ON! TV,https://tang.serv00.net/zb/99.php?id=288&token=8142df7d
+BS日本映画専門Ch,https://tang.serv00.net/zb/99.php?id=2219&token=8142df7d
+Disney チャンネル,https://tang.serv00.net/zb/99.php?id=290&token=8142df7d
+衛星劇場,https://tang.serv00.net/zb/99.php?id=2345&token=8142df7d
+日テレG＋,https://tang.serv00.net/zb/99.php?id=2434&token=8142df7d
+兵庫県の最新,https://tang.serv00.net/zb/99.php?id=1142&token=8142df7d
+한국,#genre#
+KBS드라마1,https://tang.serv00.net/zb/99.php?id=2348&token=8142df7d
+MBC드라마넷,https://tang.serv00.net/zb/99.php?id=2349&token=8142df7d
+I.NET,https://tang.serv00.net/zb/99.php?id=2351&token=8142df7d
+SkySports,https://tang.serv00.net/zb/99.php?id=2352&token=8142df7d
+KBSN Sports,https://tang.serv00.net/zb/99.php?id=2353&token=8142df7d
+SBS Sports,https://tang.serv00.net/zb/99.php?id=2354&token=8142df7d
+FTV,https://tang.serv00.net/zb/99.php?id=2355&token=8142df7d
+바둑TV,https://tang.serv00.net/zb/99.php?id=2356&token=8142df7d
+OCN Thrills,https://tang.serv00.net/zb/99.php?id=2357&token=8142df7d
+OBS,https://tang.serv00.net/zb/99.php?id=2358&token=8142df7d
+Discovery,https://tang.serv00.net/zb/99.php?id=2359&token=8142df7d
+투니버스Tooniverse 39,https://tang.serv00.net/zb/99.php?id=2360&token=8142df7d
+연변위성,https://tang.serv00.net/zb/99.php?id=2361&token=8142df7d
+TVN,https://tang.serv00.net/zb/99.php?id=295&token=8142df7d
+연합뉴스TV,https://tang.serv00.net/zb/99.php?id=1039&token=8142df7d
+KBS KOREA,https://tang.serv00.net/zb/99.php?id=1040&token=8142df7d
+YTN2,https://tang.serv00.net/zb/99.php?id=1058&token=8142df7d
+YTN,https://tang.serv00.net/zb/99.php?id=1061&token=8142df7d
+KBS1,https://tang.serv00.net/zb/99.php?id=2752&token=8142df7d
+KBS2,https://tang.serv00.net/zb/99.php?id=2753&token=8142df7d
+MBC,https://tang.serv00.net/zb/99.php?id=251&token=8142df7d
+SBS,https://tang.serv00.net/zb/99.php?id=252&token=8142df7d
+MBN,https://tang.serv00.net/zb/99.php?id=257&token=8142df7d
+Channel A,https://tang.serv00.net/zb/99.php?id=258&token=8142df7d
+MBC스포츠,https://tang.serv00.net/zb/99.php?id=265&token=8142df7d
+JTBC골프,https://tang.serv00.net/zb/99.php?id=268&token=8142df7d
+JTBC,https://tang.serv00.net/zb/99.php?id=489&token=8142df7d
+JTBC,https://tang.serv00.net/zb/99.php?id=253&token=8142df7d
+OCN,https://tang.serv00.net/zb/99.php?id=488&token=8142df7d
+iNet,https://tang.serv00.net/zb/99.php?id=490&token=8142df7d
+CTS,https://tang.serv00.net/zb/99.php?id=491&token=8142df7d
+Spotv,https://tang.serv00.net/zb/99.php?id=266&token=8142df7d
+Spotv2,https://tang.serv00.net/zb/99.php?id=267&token=8142df7d
+THE K-POP,https://tang.serv00.net/zb/99.php?id=493&token=8142df7d
+SBS골프,https://tang.serv00.net/zb/99.php?id=486&token=8142df7d
+한국경제,https://tang.serv00.net/zb/99.php?id=1064&token=8142df7d
+매일경제TV,https://tang.serv00.net/zb/99.php?id=1065&token=8142df7d
+YTN dmb,https://tang.serv00.net/zb/99.php?id=492&token=8142df7d
+YTN 사이언스,https://tang.serv00.net/zb/99.php?id=1605&token=8142df7d
+Arirang TV,https://tang.serv00.net/zb/99.php?id=256&token=8142df7d
+OCNMOVIES,https://tang.serv00.net/zb/99.php?id=1020&token=8142df7d
+TV CHOSUN,https://tang.serv00.net/zb/99.php?id=2333&token=8142df7d
+SBS Sports,https://tang.serv00.net/zb/99.php?id=487&token=8142df7d
+Mnet,https://tang.serv00.net/zb/99.php?id=1136&token=8142df7d
+MBCevery1,https://tang.serv00.net/zb/99.php?id=476&token=8142df7d
+Tconvers,https://tang.serv00.net/zb/99.php?id=1134&token=8142df7d
+채널A,https://tang.serv00.net/zb/99.php?id=1092&token=8142df7d
+KBC,https://tang.serv00.net/zb/99.php?id=1307&token=8142df7d
+MTN,https://tang.serv00.net/zb/99.php?id=1504&token=8142df7d
+이데일리TV,https://tang.serv00.net/zb/99.php?id=1554&token=8142df7d
+EBS1,https://tang.serv00.net/zb/99.php?id=2439&token=8142df7d
+EBS2,https://tang.serv00.net/zb/99.php?id=3006&token=8142df7d
+EBS KIDS,https://tang.serv00.net/zb/99.php?id=3007&token=8142df7d
+EBS PLUS1,https://tang.serv00.net/zb/99.php?id=3008&token=8142df7d
+EBS PLUS2,https://tang.serv00.net/zb/99.php?id=3009&token=8142df7d
+EBSe,https://tang.serv00.net/zb/99.php?id=3010&token=8142df7d
+美國頻道,#genre#
+Sinovision,https://tang.serv00.net/zb/99.php?id=1101&token=8142df7d
+TLC,https://tang.serv00.net/zb/99.php?id=1206&token=8142df7d
+FOX,https://tang.serv00.net/zb/99.php?id=1218&token=8142df7d
+FOX NOW,https://tang.serv00.net/zb/99.php?id=1506&token=8142df7d
+CNN USA,https://tang.serv00.net/zb/99.php?id=1102&token=8142df7d
+CNN,https://tang.serv00.net/zb/99.php?id=1507&token=8142df7d
+Msnbc,https://tang.serv00.net/zb/99.php?id=1541&token=8142df7d
+MSNBC,https://tang.serv00.net/zb/99.php?id=1104&token=8142df7d
+Newsmax2,https://tang.serv00.net/zb/99.php?id=156&token=8142df7d
+Yahoo Finance,https://tang.serv00.net/zb/99.php?id=2541&token=8142df7d
+ABC News,https://tang.serv00.net/zb/99.php?id=1508&token=8142df7d
+NBC,https://tang.serv00.net/zb/99.php?id=1217&token=8142df7d
+NBC,https://tang.serv00.net/zb/99.php?id=1509&token=8142df7d
+Fox Business,https://tang.serv00.net/zb/99.php?id=1511&token=8142df7d
+Fox Business,https://tang.serv00.net/zb/99.php?id=1108&token=8142df7d
+FOX Weather,https://tang.serv00.net/zb/99.php?id=2742&token=8142df7d
+E!,https://tang.serv00.net/zb/99.php?id=1222&token=8142df7d
+Hbo East,https://tang.serv00.net/zb/99.php?id=1513&token=8142df7d
+HBO Family,https://tang.serv00.net/zb/99.php?id=1113&token=8142df7d
+HBO Comedy,https://tang.serv00.net/zb/99.php?id=1109&token=8142df7d
+Hbo Family,https://tang.serv00.net/zb/99.php?id=1512&token=8142df7d
+HBO Signature,https://tang.serv00.net/zb/99.php?id=1112&token=8142df7d
+HBO 2 US,https://tang.serv00.net/zb/99.php?id=1111&token=8142df7d
+Hbo One,https://tang.serv00.net/zb/99.php?id=1514&token=8142df7d
+HBO 1 US,https://tang.serv00.net/zb/99.php?id=1110&token=8142df7d
+亞美卫视,https://tang.serv00.net/zb/99.php?id=8&token=8142df7d
+Tennis chan,https://tang.serv00.net/zb/99.php?id=1519&token=8142df7d
+Goltv,https://tang.serv00.net/zb/99.php?id=1542&token=8142df7d
+TBS,https://tang.serv00.net/zb/99.php?id=1545&token=8142df7d
+MTV,https://tang.serv00.net/zb/99.php?id=1546&token=8142df7d
+FX,https://tang.serv00.net/zb/99.php?id=1551&token=8142df7d
+CNBC,https://tang.serv00.net/zb/99.php?id=1555&token=8142df7d
+CNBC,https://tang.serv00.net/zb/99.php?id=1106&token=8142df7d
+CW,https://tang.serv00.net/zb/99.php?id=1557&token=8142df7d
+CW,https://tang.serv00.net/zb/99.php?id=1220&token=8142df7d
+Animal,https://tang.serv00.net/zb/99.php?id=1558&token=8142df7d
+Animal Planet,https://tang.serv00.net/zb/99.php?id=1203&token=8142df7d
+Freeform,https://tang.serv00.net/zb/99.php?id=1560&token=8142df7d
+Investigation Discovery,https://tang.serv00.net/zb/99.php?id=1564&token=8142df7d
+Lifetime Movie Network,https://tang.serv00.net/zb/99.php?id=1565&token=8142df7d
+Showtime,https://tang.serv00.net/zb/99.php?id=1568&token=8142df7d
+StarZ,https://tang.serv00.net/zb/99.php?id=1569&token=8142df7d
+USA Network,https://tang.serv00.net/zb/99.php?id=1571&token=8142df7d
+Right Now,https://tang.serv00.net/zb/99.php?id=144&token=8142df7d
+30A TV,https://tang.serv00.net/zb/99.php?id=1052&token=8142df7d
+Atlanta,https://tang.serv00.net/zb/99.php?id=1055&token=8142df7d
+Panama City,https://tang.serv00.net/zb/99.php?id=1056&token=8142df7d
+Pawleys Island,https://tang.serv00.net/zb/99.php?id=1057&token=8142df7d
+HGTV,https://tang.serv00.net/zb/99.php?id=2311&token=8142df7d
+National Geographic,https://tang.serv00.net/zb/99.php?id=2312&token=8142df7d
+Nat Geo Wild,https://tang.serv00.net/zb/99.php?id=1521&token=8142df7d
+Nat Geo Wild,https://tang.serv00.net/zb/99.php?id=2313&token=8142df7d
+Cinemax,https://tang.serv00.net/zb/99.php?id=2314&token=8142df7d
+IFC,https://tang.serv00.net/zb/99.php?id=1362&token=8142df7d
+ESPN NEWS,https://tang.serv00.net/zb/99.php?id=1363&token=8142df7d
+CBS Sport,https://tang.serv00.net/zb/99.php?id=1364&token=8142df7d
+Fight Box,https://tang.serv00.net/zb/99.php?id=1365&token=8142df7d
+Outdoor,https://tang.serv00.net/zb/99.php?id=1368&token=8142df7d
+SEC Network,https://tang.serv00.net/zb/99.php?id=1369&token=8142df7d
+PBS Kids,https://tang.serv00.net/zb/99.php?id=1370&token=8142df7d
+WGN,https://tang.serv00.net/zb/99.php?id=1372&token=8142df7d
+FX,https://tang.serv00.net/zb/99.php?id=1373&token=8142df7d
+Fuse,https://tang.serv00.net/zb/99.php?id=1376&token=8142df7d
+FX Movie,https://tang.serv00.net/zb/99.php?id=1380&token=8142df7d
+Comet,https://tang.serv00.net/zb/99.php?id=1381&token=8142df7d
+5 Star Max,https://tang.serv00.net/zb/99.php?id=1174&token=8142df7d
+Action Max,https://tang.serv00.net/zb/99.php?id=1175&token=8142df7d
+MoreMax,https://tang.serv00.net/zb/99.php?id=1176&token=8142df7d
+Hallmark Movie,https://tang.serv00.net/zb/99.php?id=1179&token=8142df7d
+TCM,https://tang.serv00.net/zb/99.php?id=1180&token=8142df7d
+Starz in Black,https://tang.serv00.net/zb/99.php?id=1181&token=8142df7d
+ESPN 1,https://tang.serv00.net/zb/99.php?id=1182&token=8142df7d
+ESPN 2,https://tang.serv00.net/zb/99.php?id=1183&token=8142df7d
+ESPN 2,https://tang.serv00.net/zb/99.php?id=2789&token=8142df7d
+NBA,https://tang.serv00.net/zb/99.php?id=2792&token=8142df7d
+NBA TV US,https://tang.serv00.net/zb/99.php?id=1185&token=8142df7d
+Fox Sport 1,https://tang.serv00.net/zb/99.php?id=1186&token=8142df7d
+Fight network,https://tang.serv00.net/zb/99.php?id=1527&token=8142df7d
+Fox Sport 2,https://tang.serv00.net/zb/99.php?id=1187&token=8142df7d
+NFL Network,https://tang.serv00.net/zb/99.php?id=1189&token=8142df7d
+Food network 美,https://tang.serv00.net/zb/99.php?id=1526&token=8142df7d
+Cartoon Network US,https://tang.serv00.net/zb/99.php?id=1211&token=8142df7d
+USA Network,https://tang.serv00.net/zb/99.php?id=1230&token=8142df7d
+Diy network,https://tang.serv00.net/zb/99.php?id=1528&token=8142df7d
+Golf,https://tang.serv00.net/zb/99.php?id=1190&token=8142df7d
+WWE,https://tang.serv00.net/zb/99.php?id=1191&token=8142df7d
+UFC PASS,https://tang.serv00.net/zb/99.php?id=1192&token=8142df7d
+Bein Sports USA,https://tang.serv00.net/zb/99.php?id=1195&token=8142df7d
+ESPN U,https://tang.serv00.net/zb/99.php?id=1196&token=8142df7d
+Discovery Channel,https://tang.serv00.net/zb/99.php?id=1198&token=8142df7d
+National Geographic,https://tang.serv00.net/zb/99.php?id=1200&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=1204&token=8142df7d
+SMITHSONIAN,https://tang.serv00.net/zb/99.php?id=1205&token=8142df7d
+Disney,https://tang.serv00.net/zb/99.php?id=1208&token=8142df7d
+Disney XD,https://tang.serv00.net/zb/99.php?id=1209&token=8142df7d
+Disney Junior,https://tang.serv00.net/zb/99.php?id=1210&token=8142df7d
+Nick Junior,https://tang.serv00.net/zb/99.php?id=1213&token=8142df7d
+Boomerang,https://tang.serv00.net/zb/99.php?id=1214&token=8142df7d
+Universal Kids,https://tang.serv00.net/zb/99.php?id=1215&token=8142df7d
+KCBS（原CBS）,https://tang.serv00.net/zb/99.php?id=1219&token=8142df7d
+LifeTime US,https://tang.serv00.net/zb/99.php?id=1226&token=8142df7d
+Arts and Entertainment,https://tang.serv00.net/zb/99.php?id=1227&token=8142df7d
+Hallmark,https://tang.serv00.net/zb/99.php?id=1535&token=8142df7d
+WE TV,https://tang.serv00.net/zb/99.php?id=1229&token=8142df7d
+VH-1,https://tang.serv00.net/zb/99.php?id=1233&token=8142df7d
+OWN US,https://tang.serv00.net/zb/99.php?id=1235&token=8142df7d
+GSN,https://tang.serv00.net/zb/99.php?id=1236&token=8142df7d
+TVG,https://tang.serv00.net/zb/99.php?id=1543&token=8142df7d
+Cooking Channel,https://tang.serv00.net/zb/99.php?id=1238&token=8142df7d
+Mlb net,https://tang.serv00.net/zb/99.php?id=1523&token=8142df7d
+FYI,https://tang.serv00.net/zb/99.php?id=1240&token=8142df7d
+BabyTV,https://tang.serv00.net/zb/99.php?id=1241&token=8142df7d
+TVB1,https://tang.serv00.net/zb/99.php?id=1242&token=8142df7d
+TVB DRAMA,https://tang.serv00.net/zb/99.php?id=1243&token=8142df7d
+ABC News,https://tang.serv00.net/zb/99.php?id=1516&token=8142df7d
+TVBJ1,https://tang.serv00.net/zb/99.php?id=1244&token=8142df7d
+TVBE,https://tang.serv00.net/zb/99.php?id=1245&token=8142df7d
+The Weather Nation,https://tang.serv00.net/zb/99.php?id=1105&token=8142df7d
+Cinemax,https://tang.serv00.net/zb/99.php?id=1518&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=1530&token=8142df7d
+Bloomberg,https://tang.serv00.net/zb/99.php?id=1107&token=8142df7d
+Fox News,https://tang.serv00.net/zb/99.php?id=1510&token=8142df7d
+Travel chan,https://tang.serv00.net/zb/99.php?id=1515&token=8142df7d
+Discovery,https://tang.serv00.net/zb/99.php?id=1529&token=8142df7d
+ShowTime 1,https://tang.serv00.net/zb/99.php?id=1114&token=8142df7d
+NHL net,https://tang.serv00.net/zb/99.php?id=1534&token=8142df7d
+ShowTime 2,https://tang.serv00.net/zb/99.php?id=1115&token=8142df7d
+ShowCase US,https://tang.serv00.net/zb/99.php?id=1116&token=8142df7d
+Starz Comedy,https://tang.serv00.net/zb/99.php?id=1118&token=8142df7d
+HGTV,https://tang.serv00.net/zb/99.php?id=1538&token=8142df7d
+Starz Edge,https://tang.serv00.net/zb/99.php?id=1119&token=8142df7d
+Starz Kids Family,https://tang.serv00.net/zb/99.php?id=1120&token=8142df7d
+World Fishing net,https://tang.serv00.net/zb/99.php?id=1531&token=8142df7d
+Starz Encore,https://tang.serv00.net/zb/99.php?id=1121&token=8142df7d
+Starz Encore Westerns,https://tang.serv00.net/zb/99.php?id=1122&token=8142df7d
+Bravo,https://tang.serv00.net/zb/99.php?id=1525&token=8142df7d
+Babytv,https://tang.serv00.net/zb/99.php?id=1522&token=8142df7d
+WFLD-DT Fox 32.1,https://tang.serv00.net/zb/99.php?id=2431&token=8142df7d
+CBS2-WBBM-TV,https://tang.serv00.net/zb/99.php?id=2822&token=8142df7d
+ken5,https://tang.serv00.net/zb/99.php?id=2429&token=8142df7d
+VH1,https://tang.serv00.net/zb/99.php?id=1532&token=8142df7d
+woai,https://tang.serv00.net/zb/99.php?id=2430&token=8142df7d
+TLC,https://tang.serv00.net/zb/99.php?id=1533&token=8142df7d
+TNT,https://tang.serv00.net/zb/99.php?id=1524&token=8142df7d
+ksat12,https://tang.serv00.net/zb/99.php?id=2428&token=8142df7d
+National Geographic,https://tang.serv00.net/zb/99.php?id=294&token=8142df7d
+Syfy,https://tang.serv00.net/zb/99.php?id=1537&token=8142df7d
+加拿大,#genre#
+The Weather Network,https://tang.serv00.net/zb/99.php?id=1251&token=8142df7d
+CP 24 Canada,https://tang.serv00.net/zb/99.php?id=1247&token=8142df7d
+CBC,https://tang.serv00.net/zb/99.php?id=1252&token=8142df7d
+CTV,https://tang.serv00.net/zb/99.php?id=1253&token=8142df7d
+CHCH,https://tang.serv00.net/zb/99.php?id=1256&token=8142df7d
+CTV 2,https://tang.serv00.net/zb/99.php?id=1257&token=8142df7d
+OMNI 1,https://tang.serv00.net/zb/99.php?id=1258&token=8142df7d
+OMNI 2,https://tang.serv00.net/zb/99.php?id=1259&token=8142df7d
+TVO,https://tang.serv00.net/zb/99.php?id=1260&token=8142df7d
+Discovery Canada,https://tang.serv00.net/zb/99.php?id=1261&token=8142df7d
+TLC Canada,https://tang.serv00.net/zb/99.php?id=1262&token=8142df7d
+Love Nature,https://tang.serv00.net/zb/99.php?id=1263&token=8142df7d
+Food Network Canada,https://tang.serv00.net/zb/99.php?id=1265&token=8142df7d
+Cooking Channel Canada,https://tang.serv00.net/zb/99.php?id=1266&token=8142df7d
+CTV Comedy,https://tang.serv00.net/zb/99.php?id=1267&token=8142df7d
+CTV Sci-Fi,https://tang.serv00.net/zb/99.php?id=1268&token=8142df7d
+Crave 1,https://tang.serv00.net/zb/99.php?id=1269&token=8142df7d
+Crave 2,https://tang.serv00.net/zb/99.php?id=1270&token=8142df7d
+Crave 3,https://tang.serv00.net/zb/99.php?id=1271&token=8142df7d
+TSN 1,https://tang.serv00.net/zb/99.php?id=1273&token=8142df7d
+TSN 2,https://tang.serv00.net/zb/99.php?id=1274&token=8142df7d
+TSN 3,https://tang.serv00.net/zb/99.php?id=1275&token=8142df7d
+TSN 4,https://tang.serv00.net/zb/99.php?id=1276&token=8142df7d
+TSN 5,https://tang.serv00.net/zb/99.php?id=1277&token=8142df7d
+SportNet ON,https://tang.serv00.net/zb/99.php?id=1278&token=8142df7d
+SportNet One,https://tang.serv00.net/zb/99.php?id=1279&token=8142df7d
+SportNet World,https://tang.serv00.net/zb/99.php?id=1280&token=8142df7d
+SportNet 360,https://tang.serv00.net/zb/99.php?id=1281&token=8142df7d
+NBA CA,https://tang.serv00.net/zb/99.php?id=1282&token=8142df7d
+TreeHouse,https://tang.serv00.net/zb/99.php?id=1283&token=8142df7d
+Teletoon,https://tang.serv00.net/zb/99.php?id=1284&token=8142df7d
+YTV,https://tang.serv00.net/zb/99.php?id=1285&token=8142df7d
+新時代東部,https://tang.serv00.net/zb/99.php?id=1286&token=8142df7d
+新時代西部,https://tang.serv00.net/zb/99.php?id=1287&token=8142df7d
+新時代2,https://tang.serv00.net/zb/99.php?id=1288&token=8142df7d
+城市電視,https://tang.serv00.net/zb/99.php?id=1289&token=8142df7d
+Sportsnet P,https://tang.serv00.net/zb/99.php?id=3074&token=8142df7d
+Global,https://tang.serv00.net/zb/99.php?id=1254&token=8142df7d
+City,https://tang.serv00.net/zb/99.php?id=1255&token=8142df7d
+HGTV Canada,https://tang.serv00.net/zb/99.php?id=1264&token=8142df7d
+Business Network News,https://tang.serv00.net/zb/99.php?id=1250&token=8142df7d
+CTV News,https://tang.serv00.net/zb/99.php?id=1249&token=8142df7d
+CBC News,https://tang.serv00.net/zb/99.php?id=1248&token=8142df7d
+Crave 4,https://tang.serv00.net/zb/99.php?id=1272&token=8142df7d
+英國頻道,#genre#
+GB News,https://tang.serv00.net/zb/99.php?id=77&token=8142df7d
+bt espn hd,https://tang.serv00.net/zb/99.php?id=2790&token=8142df7d
+TalkTV,https://tang.serv00.net/zb/99.php?id=309&token=8142df7d
+BBC one,https://tang.serv00.net/zb/99.php?id=1382&token=8142df7d
+BBC four cbeebies,https://tang.serv00.net/zb/99.php?id=1383&token=8142df7d
+BBC three cbbc,https://tang.serv00.net/zb/99.php?id=1384&token=8142df7d
+BBC two,https://tang.serv00.net/zb/99.php?id=1385&token=8142df7d
+True entertainment,https://tang.serv00.net/zb/99.php?id=1386&token=8142df7d
+Discovery turbo,https://tang.serv00.net/zb/99.php?id=1387&token=8142df7d
+sky_docu_hd,https://tang.serv00.net/zb/99.php?id=1388&token=8142df7d
+BBC red button,https://tang.serv00.net/zb/99.php?id=1393&token=8142df7d
+E4,https://tang.serv00.net/zb/99.php?id=1397&token=8142df7d
+Alibi,https://tang.serv00.net/zb/99.php?id=1398&token=8142df7d
+5 star,https://tang.serv00.net/zb/99.php?id=1400&token=8142df7d
+Itv 1,https://tang.serv00.net/zb/99.php?id=1401&token=8142df7d
+Itv 2,https://tang.serv00.net/zb/99.php?id=1402&token=8142df7d
+Itv 3,https://tang.serv00.net/zb/99.php?id=1403&token=8142df7d
+Itv 4,https://tang.serv00.net/zb/99.php?id=1404&token=8142df7d
+discovery channel,https://tang.serv00.net/zb/99.php?id=1406&token=8142df7d
+Comedy Central,https://tang.serv00.net/zb/99.php?id=1408&token=8142df7d
+Rte1,https://tang.serv00.net/zb/99.php?id=1409&token=8142df7d
+Rte2,https://tang.serv00.net/zb/99.php?id=1410&token=8142df7d
+Premiersp,https://tang.serv00.net/zb/99.php?id=1411&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=1413&token=8142df7d
+CNBC,https://tang.serv00.net/zb/99.php?id=1414&token=8142df7d
+Aljazeera,https://tang.serv00.net/zb/99.php?id=1415&token=8142df7d
+Tv3 virgin,https://tang.serv00.net/zb/99.php?id=1416&token=8142df7d
+Home,https://tang.serv00.net/zb/99.php?id=1417&token=8142df7d
+Dave,https://tang.serv00.net/zb/99.php?id=1418&token=8142df7d
+Film 4,https://tang.serv00.net/zb/99.php?id=1419&token=8142df7d
+More 4,https://tang.serv00.net/zb/99.php?id=1420&token=8142df7d
+Food Network 英,https://tang.serv00.net/zb/99.php?id=1421&token=8142df7d
+Gold,https://tang.serv00.net/zb/99.php?id=1422&token=8142df7d
+Syfy,https://tang.serv00.net/zb/99.php?id=1423&token=8142df7d
+discovery science,https://tang.serv00.net/zb/99.php?id=1424&token=8142df7d
+Discovery investigation,https://tang.serv00.net/zb/99.php?id=1426&token=8142df7d
+Tg4,https://tang.serv00.net/zb/99.php?id=1427&token=8142df7d
+Real live,https://tang.serv00.net/zb/99.php?id=1428&token=8142df7d
+Cartoonito,https://tang.serv00.net/zb/99.php?id=1429&token=8142df7d
+Watch,https://tang.serv00.net/zb/99.php?id=1430&token=8142df7d
+Challenge,https://tang.serv00.net/zb/99.php?id=1431&token=8142df7d
+Pick,https://tang.serv00.net/zb/99.php?id=1433&token=8142df7d
+Nat Geo Wild,https://tang.serv00.net/zb/99.php?id=1434&token=8142df7d
+Nick jr,https://tang.serv00.net/zb/99.php?id=1435&token=8142df7d
+Quest,https://tang.serv00.net/zb/99.php?id=1436&token=8142df7d
+Sky News,https://tang.serv00.net/zb/99.php?id=169&token=8142df7d
+BBC News,https://tang.serv00.net/zb/99.php?id=164&token=8142df7d
+BT Sport 2,https://tang.serv00.net/zb/99.php?id=166&token=8142df7d
+BT Sport 3,https://tang.serv00.net/zb/99.php?id=167&token=8142df7d
+BT Sport 1,https://tang.serv00.net/zb/99.php?id=165&token=8142df7d
+Sky Sports 1,https://tang.serv00.net/zb/99.php?id=172&token=8142df7d
+Sky Sport 2,https://tang.serv00.net/zb/99.php?id=171&token=8142df7d
+Sky Sports F1,https://tang.serv00.net/zb/99.php?id=182&token=8142df7d
+Sky Sport 3,https://tang.serv00.net/zb/99.php?id=183&token=8142df7d
+Sky Sport 4,https://tang.serv00.net/zb/99.php?id=417&token=8142df7d
+Sky Sport 5,https://tang.serv00.net/zb/99.php?id=418&token=8142df7d
+sky sports racing hd,https://tang.serv00.net/zb/99.php?id=2778&token=8142df7d
+sky sports mix,https://tang.serv00.net/zb/99.php?id=2780&token=8142df7d
+sky sports arena,https://tang.serv00.net/zb/99.php?id=2781&token=8142df7d
+sky sports football,https://tang.serv00.net/zb/99.php?id=2782&token=8142df7d
+sky sports premier league,https://tang.serv00.net/zb/99.php?id=2783&token=8142df7d
+sky sports the open,https://tang.serv00.net/zb/99.php?id=2784&token=8142df7d
+sky sports action,https://tang.serv00.net/zb/99.php?id=2785&token=8142df7d
+sky sports cricket,https://tang.serv00.net/zb/99.php?id=2786&token=8142df7d
+sky sports main event,https://tang.serv00.net/zb/99.php?id=2787&token=8142df7d
+法國頻道,#genre#
+FRANCE 24,https://tang.serv00.net/zb/99.php?id=1042&token=8142df7d
+Franceinfo,https://tang.serv00.net/zb/99.php?id=376&token=8142df7d
+Euronews français,https://tang.serv00.net/zb/99.php?id=1017&token=8142df7d
+Bein Sport 4 Max,https://tang.serv00.net/zb/99.php?id=1405&token=8142df7d
+Bein Sport 5 Max,https://tang.serv00.net/zb/99.php?id=1450&token=8142df7d
+Bein Sport 1,https://tang.serv00.net/zb/99.php?id=1085&token=8142df7d
+Bein Sport 2,https://tang.serv00.net/zb/99.php?id=2366&token=8142df7d
+Bein Sport 3,https://tang.serv00.net/zb/99.php?id=2230&token=8142df7d
+Boomerang,https://tang.serv00.net/zb/99.php?id=2228&token=8142df7d
+CANAL Sport,https://tang.serv00.net/zb/99.php?id=2234&token=8142df7d
+Cine Class,https://tang.serv00.net/zb/99.php?id=2229&token=8142df7d
+Cine Permier,https://tang.serv00.net/zb/99.php?id=2237&token=8142df7d
+Discovery,https://tang.serv00.net/zb/99.php?id=2327&token=8142df7d
+Discovery Science,https://tang.serv00.net/zb/99.php?id=2330&token=8142df7d
+Paramount,https://tang.serv00.net/zb/99.php?id=2233&token=8142df7d
+Paris premiere,https://tang.serv00.net/zb/99.php?id=2235&token=8142df7d
+TF1 HD,https://tang.serv00.net/zb/99.php?id=2236&token=8142df7d
+Toute Lhistoire,https://tang.serv00.net/zb/99.php?id=2238&token=8142df7d
+意大利,#genre#
+Sky Calcio,https://tang.serv00.net/zb/99.php?id=2737&token=8142df7d
+SKY SPORT NBA,https://tang.serv00.net/zb/99.php?id=2738&token=8142df7d
+SKY SPORT ARENA,https://tang.serv00.net/zb/99.php?id=2739&token=8142df7d
+SKY F1,https://tang.serv00.net/zb/99.php?id=2740&token=8142df7d
+Sky sport uno,https://tang.serv00.net/zb/99.php?id=1597&token=8142df7d
+Inter TV,https://tang.serv00.net/zb/99.php?id=1599&token=8142df7d
+Deejay TV,https://tang.serv00.net/zb/99.php?id=1601&token=8142df7d
+Rai Sport,https://tang.serv00.net/zb/99.php?id=1613&token=8142df7d
+Italia 1,https://tang.serv00.net/zb/99.php?id=1616&token=8142df7d
+新馬頻道,#genre#
+CNA 24,https://tang.serv00.net/zb/99.php?id=15&token=8142df7d
+AEC,https://tang.serv00.net/zb/99.php?id=433&token=8142df7d
+AEC,https://tang.serv00.net/zb/99.php?id=2745&token=8142df7d
+TV2,https://tang.serv00.net/zb/99.php?id=436&token=8142df7d
+TV3,https://tang.serv00.net/zb/99.php?id=437&token=8142df7d
+TV8,https://tang.serv00.net/zb/99.php?id=442&token=8142df7d
+Arena,https://tang.serv00.net/zb/99.php?id=1172&token=8142df7d
+小太陽,https://tang.serv00.net/zb/99.php?id=443&token=8142df7d
+Channel8,https://tang.serv00.net/zb/99.php?id=142&token=8142df7d
+天映頻道,https://tang.serv00.net/zb/99.php?id=441&token=8142df7d
+KIX,https://tang.serv00.net/zb/99.php?id=430&token=8142df7d
+全佳,https://tang.serv00.net/zb/99.php?id=427&token=8142df7d
+歡喜,https://tang.serv00.net/zb/99.php?id=432&token=8142df7d
+TVN,https://tang.serv00.net/zb/99.php?id=1170&token=8142df7d
+CRICKET,https://tang.serv00.net/zb/99.php?id=1173&token=8142df7d
+華麗,https://tang.serv00.net/zb/99.php?id=429&token=8142df7d
+Astro AWANI,https://tang.serv00.net/zb/99.php?id=2741&token=8142df7d
+Astro Awani,https://tang.serv00.net/zb/99.php?id=440&token=8142df7d
+Suria,https://tang.serv00.net/zb/99.php?id=434&token=8142df7d
+TV9,https://tang.serv00.net/zb/99.php?id=438&token=8142df7d
+NTV7,https://tang.serv00.net/zb/99.php?id=439&token=8142df7d
+AOD,https://tang.serv00.net/zb/99.php?id=428&token=8142df7d
+TV1,https://tang.serv00.net/zb/99.php?id=435&token=8142df7d
+Astro Sp1,https://tang.serv00.net/zb/99.php?id=444&token=8142df7d
+ASSP1_HD,https://tang.serv00.net/zb/99.php?id=1070&token=8142df7d
+Astro Sp2,https://tang.serv00.net/zb/99.php?id=445&token=8142df7d
+ASSP2_HD,https://tang.serv00.net/zb/99.php?id=1071&token=8142df7d
+Astro Sp3,https://tang.serv00.net/zb/99.php?id=446&token=8142df7d
+ASSP3_HD,https://tang.serv00.net/zb/99.php?id=1072&token=8142df7d
+Astro Sp4,https://tang.serv00.net/zb/99.php?id=447&token=8142df7d
+Astro Sp5,https://tang.serv00.net/zb/99.php?id=2432&token=8142df7d
+BOO,https://tang.serv00.net/zb/99.php?id=1437&token=8142df7d
+CCM,https://tang.serv00.net/zb/99.php?id=1438&token=8142df7d
+KIX,https://tang.serv00.net/zb/99.php?id=1446&token=8142df7d
+PRIMA,https://tang.serv00.net/zb/99.php?id=1448&token=8142df7d
+sony_one,https://tang.serv00.net/zb/99.php?id=1451&token=8142df7d
+TV8,https://tang.serv00.net/zb/99.php?id=1455&token=8142df7d
+Channel5,https://tang.serv00.net/zb/99.php?id=141&token=8142df7d
+AFN,https://tang.serv00.net/zb/99.php?id=195&token=8142df7d
+Channel U,https://tang.serv00.net/zb/99.php?id=1077&token=8142df7d
+Vasantham,https://tang.serv00.net/zb/99.php?id=1078&token=8142df7d
+TVB星河,https://tang.serv00.net/zb/99.php?id=1079&token=8142df7d
+TVB經典,https://tang.serv00.net/zb/99.php?id=1083&token=8142df7d
+Suria,https://tang.serv00.net/zb/99.php?id=1076&token=8142df7d
+OKEY,https://tang.serv00.net/zb/99.php?id=1075&token=8142df7d
+AXN,https://tang.serv00.net/zb/99.php?id=1044&token=8142df7d
+BNC,https://tang.serv00.net/zb/99.php?id=1045&token=8142df7d
+菲律賓,#genre#
+DZRH TV,https://tang.serv00.net/zb/99.php?id=1425&token=8142df7d
+UNTV,https://tang.serv00.net/zb/99.php?id=1501&token=8142df7d
+泰國頻道,#genre#
+Channel 3,https://tang.serv00.net/zb/99.php?id=2315&token=8142df7d
+Channel 5,https://tang.serv00.net/zb/99.php?id=2316&token=8142df7d
+Channel 7,https://tang.serv00.net/zb/99.php?id=2317&token=8142df7d
+MCOT HD,https://tang.serv00.net/zb/99.php?id=2318&token=8142df7d
+Channel 8,https://tang.serv00.net/zb/99.php?id=1140&token=8142df7d
+Gmm one,https://tang.serv00.net/zb/99.php?id=2322&token=8142df7d
+Mono,https://tang.serv00.net/zb/99.php?id=2323&token=8142df7d
+Thairath,https://tang.serv00.net/zb/99.php?id=2324&token=8142df7d
+TPBS,https://tang.serv00.net/zb/99.php?id=2325&token=8142df7d
+Workpoint,https://tang.serv00.net/zb/99.php?id=2326&token=8142df7d
+Nation,https://tang.serv00.net/zb/99.php?id=2328&token=8142df7d
+Tnn24,https://tang.serv00.net/zb/99.php?id=2329&token=8142df7d
+New18,https://tang.serv00.net/zb/99.php?id=2331&token=8142df7d
+Amarin,https://tang.serv00.net/zb/99.php?id=2320&token=8142df7d
+PPTV,https://tang.serv00.net/zb/99.php?id=2240&token=8142df7d
+PPTV,https://tang.serv00.net/zb/99.php?id=2319&token=8142df7d
+Esan TV,https://tang.serv00.net/zb/99.php?id=2243&token=8142df7d
+Nation TV,https://tang.serv00.net/zb/99.php?id=2245&token=8142df7d
+M Channel,https://tang.serv00.net/zb/99.php?id=2246&token=8142df7d
+JKN,https://tang.serv00.net/zb/99.php?id=2247&token=8142df7d
+Thai PBS,https://tang.serv00.net/zb/99.php?id=1047&token=8142df7d
+NEWS1,https://tang.serv00.net/zb/99.php?id=1608&token=8142df7d
+Thailand ch3,https://tang.serv00.net/zb/99.php?id=1839&token=8142df7d
+印尼頻道,#genre#
+CNN Indonesia,https://tang.serv00.net/zb/99.php?id=1145&token=8142df7d
+Metro TV,https://tang.serv00.net/zb/99.php?id=2577&token=8142df7d
+tvOne,https://tang.serv00.net/zb/99.php?id=2734&token=8142df7d
+SCTV,https://tang.serv00.net/zb/99.php?id=2553&token=8142df7d
+Rajawali TV,https://tang.serv00.net/zb/99.php?id=2942&token=8142df7d
+NET TV,https://tang.serv00.net/zb/99.php?id=2943&token=8142df7d
+JTV,https://tang.serv00.net/zb/99.php?id=2944&token=8142df7d
+Bali TV,https://tang.serv00.net/zb/99.php?id=2945&token=8142df7d
+Dunia Lain,https://tang.serv00.net/zb/99.php?id=2946&token=8142df7d
+Trans TV,https://tang.serv00.net/zb/99.php?id=2947&token=8142df7d
+Trans 7,https://tang.serv00.net/zb/99.php?id=2948&token=8142df7d
+SCTV HD,https://tang.serv00.net/zb/99.php?id=2949&token=8142df7d
+Indosiar,https://tang.serv00.net/zb/99.php?id=2950&token=8142df7d
+Hope Channel,https://tang.serv00.net/zb/99.php?id=2951&token=8142df7d
+Antara TV,https://tang.serv00.net/zb/99.php?id=2952&token=8142df7d
+TV ONE,https://tang.serv00.net/zb/99.php?id=2953&token=8142df7d
+Kompas TV,https://tang.serv00.net/zb/99.php?id=2954&token=8142df7d
+TVRI,https://tang.serv00.net/zb/99.php?id=2955&token=8142df7d
+CNN Indonesia,https://tang.serv00.net/zb/99.php?id=2956&token=8142df7d
+Metro TV,https://tang.serv00.net/zb/99.php?id=2957&token=8142df7d
+Aljazeera EN,https://tang.serv00.net/zb/99.php?id=2958&token=8142df7d
+Berita Satu News,https://tang.serv00.net/zb/99.php?id=2959&token=8142df7d
+DW TV Asia,https://tang.serv00.net/zb/99.php?id=2960&token=8142df7d
+France 24,https://tang.serv00.net/zb/99.php?id=2961&token=8142df7d
+Channel News Asia,https://tang.serv00.net/zb/99.php?id=2963&token=8142df7d
+CNN Int,https://tang.serv00.net/zb/99.php?id=2964&token=8142df7d
+CNBC Indonesia,https://tang.serv00.net/zb/99.php?id=2965&token=8142df7d
+Metro TV HD,https://tang.serv00.net/zb/99.php?id=2966&token=8142df7d
+CGTN News,https://tang.serv00.net/zb/99.php?id=2967&token=8142df7d
+Thrill,https://tang.serv00.net/zb/99.php?id=2968&token=8142df7d
+Celestial Movies,https://tang.serv00.net/zb/99.php?id=2969&token=8142df7d
+KIX HD,https://tang.serv00.net/zb/99.php?id=2970&token=8142df7d
+AXN,https://tang.serv00.net/zb/99.php?id=2971&token=8142df7d
+HITS,https://tang.serv00.net/zb/99.php?id=2972&token=8142df7d
+Paramount Network,https://tang.serv00.net/zb/99.php?id=2973&token=8142df7d
+Hits Movies HD,https://tang.serv00.net/zb/99.php?id=2974&token=8142df7d
+HBO HD,https://tang.serv00.net/zb/99.php?id=2975&token=8142df7d
+HBO Hits HD,https://tang.serv00.net/zb/99.php?id=2976&token=8142df7d
+HBO Family HD,https://tang.serv00.net/zb/99.php?id=2977&token=8142df7d
+Rock Entertainment HD,https://tang.serv00.net/zb/99.php?id=2979&token=8142df7d
+LifeTime HD,https://tang.serv00.net/zb/99.php?id=2980&token=8142df7d
+HBO Signature HD,https://tang.serv00.net/zb/99.php?id=2981&token=8142df7d
+Bioskop Indonesia,https://tang.serv00.net/zb/99.php?id=2982&token=8142df7d
+Hits Movie SD,https://tang.serv00.net/zb/99.php?id=2983&token=8142df7d
+HITS HD,https://tang.serv00.net/zb/99.php?id=2984&token=8142df7d
+Hits Movies,https://tang.serv00.net/zb/99.php?id=2985&token=8142df7d
+HBO FHD,https://tang.serv00.net/zb/99.php?id=2986&token=8142df7d
+HBO Signature FHD,https://tang.serv00.net/zb/99.php?id=2987&token=8142df7d
+Warner TV ID HD,https://tang.serv00.net/zb/99.php?id=2988&token=8142df7d
+My Cinema Asia,https://tang.serv00.net/zb/99.php?id=2989&token=8142df7d
+Cinemax ID,https://tang.serv00.net/zb/99.php?id=2990&token=8142df7d
+HBO Hits FHD,https://tang.serv00.net/zb/99.php?id=2991&token=8142df7d
+My Family Channel,https://tang.serv00.net/zb/99.php?id=2992&token=8142df7d
+HBO SD,https://tang.serv00.net/zb/99.php?id=2993&token=8142df7d
+HBO Hits SD,https://tang.serv00.net/zb/99.php?id=2994&token=8142df7d
+HBO Signature SD,https://tang.serv00.net/zb/99.php?id=2995&token=8142df7d
+HBO Family SD,https://tang.serv00.net/zb/99.php?id=2996&token=8142df7d
+FLIK HD,https://tang.serv00.net/zb/99.php?id=2997&token=8142df7d
+Galaxy Premium SD,https://tang.serv00.net/zb/99.php?id=2998&token=8142df7d
+Galaxy SD,https://tang.serv00.net/zb/99.php?id=2999&token=8142df7d
+ATV,https://tang.serv00.net/zb/99.php?id=3000&token=8142df7d
+HBO Family FHD,https://tang.serv00.net/zb/99.php?id=3001&token=8142df7d
+Cinemax FHD,https://tang.serv00.net/zb/99.php?id=3002&token=8142df7d
+IMC SD,https://tang.serv00.net/zb/99.php?id=3003&token=8142df7d
+Celestial Classic Movies CCM,https://tang.serv00.net/zb/99.php?id=3004&token=8142df7d
+Discovery Channel,https://tang.serv00.net/zb/99.php?id=3005&token=8142df7d
+TechStorm,https://tang.serv00.net/zb/99.php?id=3012&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=3014&token=8142df7d
+History,https://tang.serv00.net/zb/99.php?id=3016&token=8142df7d
+Lingua Channel,https://tang.serv00.net/zb/99.php?id=3017&token=8142df7d
+Da Vinci Learning,https://tang.serv00.net/zb/99.php?id=3019&token=8142df7d
+Aniplus,https://tang.serv00.net/zb/99.php?id=3024&token=8142df7d
+Animax,https://tang.serv00.net/zb/99.php?id=3025&token=8142df7d
+My Kidz,https://tang.serv00.net/zb/99.php?id=3026&token=8142df7d
+Boomerang ID,https://tang.serv00.net/zb/99.php?id=3027&token=8142df7d
+Nick Jr,https://tang.serv00.net/zb/99.php?id=3029&token=8142df7d
+Cartoon Network,https://tang.serv00.net/zb/99.php?id=3030&token=8142df7d
+Dunia Anak,https://tang.serv00.net/zb/99.php?id=3031&token=8142df7d
+My Kidz,https://tang.serv00.net/zb/99.php?id=3033&token=8142df7d
+Indi Kids,https://tang.serv00.net/zb/99.php?id=3034&token=8142df7d
+Horee,https://tang.serv00.net/zb/99.php?id=3035&token=8142df7d
+Dream Works,https://tang.serv00.net/zb/99.php?id=3036&token=8142df7d
+Golf Channel,https://tang.serv00.net/zb/99.php?id=3040&token=8142df7d
+BeIN Sport 1,https://tang.serv00.net/zb/99.php?id=3041&token=8142df7d
+BeIN Sport 2,https://tang.serv00.net/zb/99.php?id=3042&token=8142df7d
+Fight Sports,https://tang.serv00.net/zb/99.php?id=3043&token=8142df7d
+NBA TV,https://tang.serv00.net/zb/99.php?id=3044&token=8142df7d
+Horizon Sports,https://tang.serv00.net/zb/99.php?id=3045&token=8142df7d
+Fashion TV,https://tang.serv00.net/zb/99.php?id=3046&token=8142df7d
+TLC HD,https://tang.serv00.net/zb/99.php?id=3047&token=8142df7d
+HGTV,https://tang.serv00.net/zb/99.php?id=3048&token=8142df7d
+TLC HD,https://tang.serv00.net/zb/99.php?id=3049&token=8142df7d
+AFN HD,https://tang.serv00.net/zb/99.php?id=3050&token=8142df7d
+Citra Drama,https://tang.serv00.net/zb/99.php?id=3051&token=8142df7d
+Rock Action,https://tang.serv00.net/zb/99.php?id=3052&token=8142df7d
+Insert,https://tang.serv00.net/zb/99.php?id=3053&token=8142df7d
+Eat&Go,https://tang.serv00.net/zb/99.php?id=3054&token=8142df7d
+idku,https://tang.serv00.net/zb/99.php?id=3055&token=8142df7d
+BBC Lifestyle,https://tang.serv00.net/zb/99.php?id=3056&token=8142df7d
+K Plus,https://tang.serv00.net/zb/99.php?id=3057&token=8142df7d
+Sony ONE,https://tang.serv00.net/zb/99.php?id=3058&token=8142df7d
+TVN ID,https://tang.serv00.net/zb/99.php?id=3059&token=8142df7d
+S GEM,https://tang.serv00.net/zb/99.php?id=3060&token=8142df7d
+tVN Movies,https://tang.serv00.net/zb/99.php?id=3061&token=8142df7d
+KBS World,https://tang.serv00.net/zb/99.php?id=3062&token=8142df7d
+Drama Korea LBS,https://tang.serv00.net/zb/99.php?id=3063&token=8142df7d
+MTV Music,https://tang.serv00.net/zb/99.php?id=3064&token=8142df7d
+Prambors TV,https://tang.serv00.net/zb/99.php?id=3065&token=8142df7d
+ONE African TV,https://tang.serv00.net/zb/99.php?id=3066&token=8142df7d
+Citra Dangdut,https://tang.serv00.net/zb/99.php?id=3067&token=8142df7d
+MTV LIVE HD,https://tang.serv00.net/zb/99.php?id=3068&token=8142df7d
+i konser,https://tang.serv00.net/zb/99.php?id=3069&token=8142df7d
+Makkah TV,https://tang.serv00.net/zb/99.php?id=3070&token=8142df7d
+TV Mu,https://tang.serv00.net/zb/99.php?id=3071&token=8142df7d
+NET TV,https://tang.serv00.net/zb/99.php?id=2937&token=8142df7d
+ANTV,https://tang.serv00.net/zb/99.php?id=2938&token=8142df7d
+SCTV,https://tang.serv00.net/zb/99.php?id=2939&token=8142df7d
+Trans TV,https://tang.serv00.net/zb/99.php?id=2940&token=8142df7d
+Trans 7,https://tang.serv00.net/zb/99.php?id=2941&token=8142df7d
+TVRI,https://tang.serv00.net/zb/99.php?id=1473&token=8142df7d
+Rcti,https://tang.serv00.net/zb/99.php?id=1474&token=8142df7d
+Kompass,https://tang.serv00.net/zb/99.php?id=1475&token=8142df7d
+Indosiar,https://tang.serv00.net/zb/99.php?id=1478&token=8142df7d
+Antv,https://tang.serv00.net/zb/99.php?id=1479&token=8142df7d
+Mnctv,https://tang.serv00.net/zb/99.php?id=1481&token=8142df7d
+Trans7,https://tang.serv00.net/zb/99.php?id=1482&token=8142df7d
+Transtv,https://tang.serv00.net/zb/99.php?id=1483&token=8142df7d
+JTV,https://tang.serv00.net/zb/99.php?id=1484&token=8142df7d
+Sctv,https://tang.serv00.net/zb/99.php?id=1486&token=8142df7d
+TVone,https://tang.serv00.net/zb/99.php?id=1487&token=8142df7d
+BeritaSatu,https://tang.serv00.net/zb/99.php?id=1488&token=8142df7d
+TVMU,https://tang.serv00.net/zb/99.php?id=1490&token=8142df7d
+DAAI TV,https://tang.serv00.net/zb/99.php?id=2936&token=8142df7d
+越南頻道,#genre#
+HTV7 HD,https://tang.serv00.net/zb/99.php?id=2251&token=8142df7d
+HTV9 HD,https://tang.serv00.net/zb/99.php?id=2253&token=8142df7d
+HTV1,https://tang.serv00.net/zb/99.php?id=2254&token=8142df7d
+HTV2 HD,https://tang.serv00.net/zb/99.php?id=2255&token=8142df7d
+Max by HBO,https://tang.serv00.net/zb/99.php?id=2261&token=8142df7d
+Disney Chanel,https://tang.serv00.net/zb/99.php?id=2262&token=8142df7d
+QRT,https://tang.serv00.net/zb/99.php?id=1294&token=8142df7d
+ANTV,https://tang.serv00.net/zb/99.php?id=1300&token=8142df7d
+ANTV HD,https://tang.serv00.net/zb/99.php?id=1301&token=8142df7d
+HBTV,https://tang.serv00.net/zb/99.php?id=1302&token=8142df7d
+KienGiangTV,https://tang.serv00.net/zb/99.php?id=1309&token=8142df7d
+KienGiangTV1,https://tang.serv00.net/zb/99.php?id=1310&token=8142df7d
+土耳其,#genre#
+A SPOR,https://tang.serv00.net/zb/99.php?id=2367&token=8142df7d
+TRT 1 HD,https://tang.serv00.net/zb/99.php?id=2368&token=8142df7d
+SHOW TV HD,https://tang.serv00.net/zb/99.php?id=2369&token=8142df7d
+STAR TV HD,https://tang.serv00.net/zb/99.php?id=2370&token=8142df7d
+KANAL D HD,https://tang.serv00.net/zb/99.php?id=2371&token=8142df7d
+FOX HD,https://tang.serv00.net/zb/99.php?id=2372&token=8142df7d
+TV 8 HD,https://tang.serv00.net/zb/99.php?id=2373&token=8142df7d
+CNN TURK HD,https://tang.serv00.net/zb/99.php?id=2374&token=8142df7d
+HABER TURK HD,https://tang.serv00.net/zb/99.php?id=2375&token=8142df7d
+NTV HD,https://tang.serv00.net/zb/99.php?id=2376&token=8142df7d
+A HABER HD,https://tang.serv00.net/zb/99.php?id=2377&token=8142df7d
+BEYAZ TV HD,https://tang.serv00.net/zb/99.php?id=2378&token=8142df7d
+KANAL 7 HD,https://tang.serv00.net/zb/99.php?id=2379&token=8142df7d
+KEMAL SUNAL TV HD,https://tang.serv00.net/zb/99.php?id=2380&token=8142df7d
+ATV HD,https://tang.serv00.net/zb/99.php?id=2381&token=8142df7d
+HALK TV HD,https://tang.serv00.net/zb/99.php?id=2382&token=8142df7d
+TGRT HABER HD,https://tang.serv00.net/zb/99.php?id=2383&token=8142df7d
+360 TV HD,https://tang.serv00.net/zb/99.php?id=2384&token=8142df7d
+DMAX HD,https://tang.serv00.net/zb/99.php?id=2385&token=8142df7d
+TRT BELGESEL HD,https://tang.serv00.net/zb/99.php?id=2386&token=8142df7d
+TRT COCUK HD,https://tang.serv00.net/zb/99.php?id=2387&token=8142df7d
+TRT SPOR HD,https://tang.serv00.net/zb/99.php?id=2388&token=8142df7d
+BEIN SPORTS 1 HD,https://tang.serv00.net/zb/99.php?id=2389&token=8142df7d
+BEIN SPORTS 2 HD,https://tang.serv00.net/zb/99.php?id=2390&token=8142df7d
+ULUSAL TV,https://tang.serv00.net/zb/99.php?id=2391&token=8142df7d
+巴西,#genre#
+Globo RBS TV,https://tang.serv00.net/zb/99.php?id=1668&token=8142df7d
+Gloobinho,https://tang.serv00.net/zb/99.php?id=1684&token=8142df7d
+Globo RJ,https://tang.serv00.net/zb/99.php?id=1688&token=8142df7d
+GNT,https://tang.serv00.net/zb/99.php?id=1689&token=8142df7d
+Mais Globosat,https://tang.serv00.net/zb/99.php?id=1704&token=8142df7d
+Rede TV,https://tang.serv00.net/zb/99.php?id=1728&token=8142df7d
+Record,https://tang.serv00.net/zb/99.php?id=1746&token=8142df7d
+SBT,https://tang.serv00.net/zb/99.php?id=1747&token=8142df7d
+Sport TV 1,https://tang.serv00.net/zb/99.php?id=1779&token=8142df7d
+Sport TV 2,https://tang.serv00.net/zb/99.php?id=1785&token=8142df7d
+Sport TV 3,https://tang.serv00.net/zb/99.php?id=2135&token=8142df7d
+Globo News,https://tang.serv00.net/zb/99.php?id=1489&token=8142df7d
+भारत,#genre#
+WION,https://tang.serv00.net/zb/99.php?id=303&token=8142df7d
+ZeeNews,https://tang.serv00.net/zb/99.php?id=465&token=8142df7d
+ABP Majha,https://tang.serv00.net/zb/99.php?id=1782&token=8142df7d
+IndiaTV,https://tang.serv00.net/zb/99.php?id=1607&token=8142df7d
+TV9 Marathi,https://tang.serv00.net/zb/99.php?id=2281&token=8142df7d
+Sun TV,https://tang.serv00.net/zb/99.php?id=1458&token=8142df7d
+Star Vijay,https://tang.serv00.net/zb/99.php?id=1459&token=8142df7d
+Zee Tamil,https://tang.serv00.net/zb/99.php?id=1460&token=8142df7d
+Zee Business,https://tang.serv00.net/zb/99.php?id=1461&token=8142df7d
+Thanthi TV,https://tang.serv00.net/zb/99.php?id=1462&token=8142df7d
+Raj Musix,https://tang.serv00.net/zb/99.php?id=1463&token=8142df7d
+Zee Actions,https://tang.serv00.net/zb/99.php?id=1464&token=8142df7d
+KTV Tamil,https://tang.serv00.net/zb/99.php?id=1465&token=8142df7d
+Zee TV HD,https://tang.serv00.net/zb/99.php?id=1466&token=8142df7d
+Zee Cinema HD,https://tang.serv00.net/zb/99.php?id=1467&token=8142df7d
+Colors HD,https://tang.serv00.net/zb/99.php?id=1468&token=8142df7d
+Starplus,https://tang.serv00.net/zb/99.php?id=1469&token=8142df7d
+Picture,https://tang.serv00.net/zb/99.php?id=1470&token=8142df7d
+Asianet,https://tang.serv00.net/zb/99.php?id=1471&token=8142df7d
+Times Now,https://tang.serv00.net/zb/99.php?id=1472&token=8142df7d
+俄羅斯,#genre#
+RT News,https://tang.serv00.net/zb/99.php?id=2564&token=8142df7d
+Москва 24,https://tang.serv00.net/zb/99.php?id=2574&token=8142df7d
+RT Documentary,https://tang.serv00.net/zb/99.php?id=2611&token=8142df7d
+私密頻道_8888,#genre#
+松視1,https://tang.serv00.net/zb/99.php?id=402&token=8142df7d
+松视1台,https://tang.serv00.net/zb/99.php?id=2905&token=8142df7d
+松视2台,https://tang.serv00.net/zb/99.php?id=2906&token=8142df7d
+松視2,https://tang.serv00.net/zb/99.php?id=403&token=8142df7d
+松視3,https://tang.serv00.net/zb/99.php?id=404&token=8142df7d
+松视3台,https://tang.serv00.net/zb/99.php?id=2907&token=8142df7d
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410&token=8142df7d
+彩虹電影,https://tang.serv00.net/zb/99.php?id=413&token=8142df7d
+HAPPY,https://tang.serv00.net/zb/99.php?id=2908&token=8142df7d
+JStar,https://tang.serv00.net/zb/99.php?id=2909&token=8142df7d
+彩虹E,https://tang.serv00.net/zb/99.php?id=406&token=8142df7d
+彩虹E,https://tang.serv00.net/zb/99.php?id=2935&token=8142df7d
+彩虹K,https://tang.serv00.net/zb/99.php?id=2910&token=8142df7d
+彩虹K,https://tang.serv00.net/zb/99.php?id=415&token=8142df7d
+Amazing,https://tang.serv00.net/zb/99.php?id=2931&token=8142df7d
+彩虹电影,https://tang.serv00.net/zb/99.php?id=2934&token=8142df7d
+Brazzers TV,https://tang.serv00.net/zb/99.php?id=3076&token=8142df7d
+Vivid Touch,https://tang.serv00.net/zb/99.php?id=3078&token=8142df7d
+Erox,https://tang.serv00.net/zb/99.php?id=3079&token=8142df7d
+Red Hot,https://tang.serv00.net/zb/99.php?id=3080&token=8142df7d
+Exxxtasy,https://tang.serv00.net/zb/99.php?id=3081&token=8142df7d
+Penthouse Quickie,https://tang.serv00.net/zb/99.php?id=3082&token=8142df7d
+RED LIPS,https://tang.serv00.net/zb/99.php?id=3083&token=8142df7d
+VIXEN,https://tang.serv00.net/zb/99.php?id=3084&token=8142df7d
+BRAZZERS EN ESPANOL,https://tang.serv00.net/zb/99.php?id=3092&token=8142df7d
+BUSTY LOVER,https://tang.serv00.net/zb/99.php?id=3093&token=8142df7d
+CUM 4K,https://tang.serv00.net/zb/99.php?id=3094&token=8142df7d
+Red Light,https://tang.serv00.net/zb/99.php?id=3075&token=8142df7d
+Blue Hustler,https://tang.serv00.net/zb/99.php?id=3077&token=8142df7d
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=2932&token=8142df7d
+Banana香蕉,https://tang.serv00.net/zb/99.php?id=2930&token=8142df7d
+LOOK,https://tang.serv00.net/zb/99.php?id=2933&token=8142df7d
+Babes TV HD,https://tang.serv00.net/zb/99.php?id=458&token=8142df7d
+Hustler HD,https://tang.serv00.net/zb/99.php?id=451&token=8142df7d
+Redlight HD,https://tang.serv00.net/zb/99.php?id=452&token=8142df7d
+SEX ATION HD,https://tang.serv00.net/zb/99.php?id=459&token=8142df7d
+Passie,https://tang.serv00.net/zb/99.php?id=461&token=8142df7d
+極限電影,https://tang.serv00.net/zb/99.php?id=405&token=8142df7d
+PLAYBOY HD,https://tang.serv00.net/zb/99.php?id=411&token=8142df7d
+EXXXTRA SMALL,https://tang.serv00.net/zb/99.php?id=3099&token=8142df7d
+DAUGHTER SWAP,https://tang.serv00.net/zb/99.php?id=3095&token=8142df7d
+DEEPER,https://tang.serv00.net/zb/99.php?id=3096&token=8142df7d
+DIGITAL PLAYGROUND,https://tang.serv00.net/zb/99.php?id=3097&token=8142df7d
+EROTIC SPICE,https://tang.serv00.net/zb/99.php?id=3098&token=8142df7d
+FAKE AGENT,https://tang.serv00.net/zb/99.php?id=3100&token=8142df7d
+FAKE AGENT UK,https://tang.serv00.net/zb/99.php?id=3101&token=8142df7d
+FAKE COP,https://tang.serv00.net/zb/99.php?id=3102&token=8142df7d
 
 18+,#genre#
 
