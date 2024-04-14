@@ -1380,7 +1380,7 @@ Times Now,https://tang.serv00.net/zb/99.php?id=1472&token=8142df7d
 RT News,https://tang.serv00.net/zb/99.php?id=2564&token=8142df7d
 Москва 24,https://tang.serv00.net/zb/99.php?id=2574&token=8142df7d
 RT Documentary,https://tang.serv00.net/zb/99.php?id=2611&token=8142df7d
-私密頻道_8888,#genre#
+私密頻道,#genre#
 松視1,https://tang.serv00.net/zb/99.php?id=402&token=8142df7d
 松视1台,https://tang.serv00.net/zb/99.php?id=2905&token=8142df7d
 松视2台,https://tang.serv00.net/zb/99.php?id=2906&token=8142df7d
