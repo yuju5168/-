@@ -1,13 +1,42 @@
 4GTV嗅探,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-4人間衛視,https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8
-5民視HD,https://epg.pw/stream/8a212b59f4b257de97f01e8f12557ddde87eab644791852b190de90dacc7705c.ctv
-6CNN HD,https://epg.pw/stream/cb6027e85542af7a04c96104dea3b8e9c3798f59fe08576394b1708317a0f7db.m3u8
-7台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
-8CN卡通頻道HD,https://epg.pw/stream/395ef5f6716baa7061e2b8a93a290b660eea38d6dd8af29af04712e1094eb763.m3u8
-9中視HD,https://epg.pw/stream/1de55ae2f6e95f550fddae3843a18610c5dec55b9f1dd977c5b67925f8649031.m3u8
-10大愛HD,https://epg.pw/stream/8e6f3b4d7140634ef652f937bd4d1c9ff711392da981e073b09fd6bc089d6493.m3u8
-11華視HD,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
-13公視HD,https://epg.pw/stream/069cc5d754ce99e0793b22cc28aa7df55b88b54588cd31aca3d111b49f4ad3d8.m3u8
-15小消息HD,https://epg.pw/stream/3302660671c4270fc2f83d4225bea5f58cde3b56f3c041fa266777c756ad3455.m3u8
+4 人間衛視,https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8
+5 民視HD,https://epg.pw/stream/8a212b59f4b257de97f01e8f12557ddde87eab644791852b190de90dacc7705c.ctv
+6 CNN HD,https://epg.pw/stream/cb6027e85542af7a04c96104dea3b8e9c3798f59fe08576394b1708317a0f7db.m3u8
+7 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
+8 CN卡通頻道HD,https://epg.pw/stream/395ef5f6716baa7061e2b8a93a290b660eea38d6dd8af29af04712e1094eb763.m3u8
+9 中視HD,https://epg.pw/stream/1de55ae2f6e95f550fddae3843a18610c5dec55b9f1dd977c5b67925f8649031.m3u8
+10 大愛HD,https://epg.pw/stream/8e6f3b4d7140634ef652f937bd4d1c9ff711392da981e073b09fd6bc089d6493.m3u8
+11 華視HD,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
+13 公視HD,https://epg.pw/stream/069cc5d754ce99e0793b22cc28aa7df55b88b54588cd31aca3d111b49f4ad3d8.m3u8
+15 小消息HD,https://epg.pw/stream/3302660671c4270fc2f83d4225bea5f58cde3b56f3c041fa266777c756ad3455.m3u8
+18 BBC Earth HD,https://epg.pw/stream/0f01785c97b13368bc8e9804ee93654aad82ce3174184078747c7a8fc4ce4af2.m3u8
+19 Discovery 頻道HD,https://epg.pw/stream/879d412872ed98ed41f74fd95e8168e21d8eeba2498dcb13d92f0749493c1f87.m3u8
+21 TLC 旅遊生活頻道HD,https://epg.pw/stream/252b9778cd94715c8b04c71dc726e113121dcacbff7b843cec7d22f969a26714.m3u8
+22 動物星球頻道HD,https://epg.pw/stream/1eed671797c6c1950c09a217c2850a6a65f87f47710046b97d4be243817ed52c.m3u8
+23 尼克兒童頻道HD,https://epg.pw/stream/d6fdd44fe93eeffa30ea4fcb8034b3e2b7250f2c877604c4bb8636170360229a.ctv
+24 momo親子台HD,https://epg.pw/stream/c71992b396e74d905bdbb77c36067639c94d83b73fbae32448f8d25b4570691f.m3u8
+25 東森幼幼台HD,https://epg.pw/stream/bfd96c7d555c5a45ecf2f77e3ed74acb3cf2fd4dfbe07f69cd998aedada12860.m3u8
+26 緯來綜合台HD,https://epg.pw/stream/7d501b1e8c12e47b411505569ebcb16eb120d36ae42c0c44630c3b9828420d82.m3u8
+27 八大第一台HD,https://epg.pw/stream/6003989780374c54976ca538a5f4568c65e2afd11d16338b3c720c1e2c4d6a93.m3u8
+28 八大綜合台HD,https://epg.pw/stream/8988d9eb9efbd806d188c9e6470df92f47c68d419af4d4c41b6d8550f446d9d1.m3u8
+29 三立台灣台HD,https://epg.pw/stream/d1a10954ed62efe9925babc081678b493cf585ee48f6972aac85deae98ec57bd.m3u8
+30 三立都會台HD,https://epg.pw/stream/5a44781a9d470b4e307fa8604cd79758fde068e554b599fe4a462df32081a44d.m3u8
+31 韓國娛樂台KMTV HD,https://epg.pw/stream/2435a858ded964b7b542f875773dbe95213d3c256414bf53ec5bc15160075483.m3u8
+32 東森綜合台HD,https://epg.pw/stream/a400d3e8edde075f9f7876e5f305077de25f4e274cd33fe8c837afafacdbeb89.m3u8
+33 超視HD,https://epg.pw/stream/b26335468a9dafc7eb9b0c39c431d80b6609496684bf4376da9a132d2970c1ee.m3u8
+34 東森購物2台HD,https://epg.pw/stream/e5303396578a6db248d5ba68330603bbf252f39e4b9f3d8d75a436ec96decd34.m3u8
+36 中天綜合台HD,https://epg.pw/stream/163b9b8f321ef90d474ea205d8cf17997db8734159334e1d13fc251e59f161b9.m3u8
+38 年代MUCH台HD,https://z88.ubtvfans.com/live/rx1/1359/44acb036ef6a4711efb23d82a5d9151e/index.m3u8
+39 中天娛樂台HD,https://epg.pw/stream/e54f31eb9ad5a4df474a91a9de4306bcc33fe817b967a82df1bbb722d488bc00.m3u8
+40 東森戲劇台HD,https://epg.pw/stream/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.m3u8
+41 八大戲劇台HD,https://epg.pw/stream/bf9c69740a7b5225aab8547e6e8b8ddef7f58161aefa604079f849beab2c339e.m3u8
+42 TVBS歡樂台HD,https://epg.pw/stream/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.m3u8
+43 緯來戲劇台HD,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
+48 三立iNEWS HD,https://epg.pw/stream/355445c29dfc6d7aeeab06dc831477945355890318886c5be26e7c221ef243d9.m3u8
+49 壹電視新聞HD,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+50 年代新聞HD,https://epg.pw/stream/d55f0bf3ca7f68a0861404d9ecd878546b74f474f002f7cd69c88d2ce185d041.m3u8
+51 東森新聞HD,https://epg.pw/stream/acbd0fd7c9e1a33a2c21756fcc8d7862bdac59189a249b326cc5c25af0f27768.m3u8
+55 TVBS新聞台HD,https://epg.pw/stream/3b03cc3526a567aa659a19056497b9e0b4ea1d3419f7eafcfab73b77b7c51332.m3u8
+56 TVBS HD,https://epg.pw/stream/9705160141091f1e660fad65bfa98848f3387857a2f1e00a7e59bc85450a82d1.m3u8
