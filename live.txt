@@ -2,9 +2,9 @@
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 靖天日本,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
-4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
-6民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+4民視第一台,https://epg.pw/stream/046f5a225f1372bab23d03244865a597c2524a4982b979a1664f83b5af42818e.m3u8
+5民視台灣台,https://epg.pw/stream/6de6fc3073fd98a8f878df8d20a3bc89656f040bfec5801acaa1e8cd2e112cb8.m3u8
+6民視,https://epg.pw/stream/c04023535ddcaa590509b0dbbc9f8956e54e02b4f47097b4d855131c52d2796d.m3u8
 9大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
 10中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 11中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
