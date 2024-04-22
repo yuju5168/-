@@ -2,7 +2,7 @@
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 4 人間衛視,https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8
-5 民視HD,https://epg.pw/stream/8a212b59f4b257de97f01e8f12557ddde87eab644791852b190de90dacc7705c.ctv
+5 民視HD,https://epg.pw/stream/44a911a7eb428cf1c0770fe610379edfd76f3f5cfe53063d3e3a550de42769d5.m3u8
 6 CNN HD,https://epg.pw/stream/cb6027e85542af7a04c96104dea3b8e9c3798f59fe08576394b1708317a0f7db.m3u8
 7 台視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 8 CN卡通頻道HD,https://epg.pw/stream/395ef5f6716baa7061e2b8a93a290b660eea38d6dd8af29af04712e1094eb763.m3u8
@@ -11,6 +11,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 11 華視HD,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
 13 公視HD,https://epg.pw/stream/069cc5d754ce99e0793b22cc28aa7df55b88b54588cd31aca3d111b49f4ad3d8.m3u8
 15 小消息HD,https://epg.pw/stream/3302660671c4270fc2f83d4225bea5f58cde3b56f3c041fa266777c756ad3455.m3u8
+17 歷史頻道,https://epg.pw/stream/596900bf6ef122c3e66036b937f0925a27d894c8db4bda7e075020d77f6ed4e2.m3u8
 18 BBC Earth HD,https://epg.pw/stream/0f01785c97b13368bc8e9804ee93654aad82ce3174184078747c7a8fc4ce4af2.m3u8
 19 Discovery 頻道HD,https://epg.pw/stream/879d412872ed98ed41f74fd95e8168e21d8eeba2498dcb13d92f0749493c1f87.m3u8
 20 探索,https://epg.pw/stream/ba7615b4508ba0d31c49ae52e1072a11c8e86f3ca448170c879117127acd6a26.m3u8
